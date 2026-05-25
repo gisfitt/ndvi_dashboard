@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NDVI Recheck V8</title>
+<title>NDVI Recheck </title>
 <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -202,16 +202,6 @@
     font-size: 11px; font-weight: 700; color: #1a3a6a;
     background: #e8f0fe; border-radius: 8px; padding: 4px 6px;
   }
-  #provFilter {
-    width: 100%; padding: 6px 8px;
-    border: 1px solid #d0d7e6; border-radius: 8px;
-    font-size: 11px; font-weight: 600; background: white;
-    margin-bottom: 6px; color: #1a3a6a;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-    outline: none; cursor: pointer;
-    transition: border-color 0.15s;
-  }
-  #provFilter:focus { border-color: #4a90d9; }
   #idSearch {
     width: 100%; padding: 7px 10px;
     border: 1px solid #d0d7e6; border-radius: 8px;
@@ -685,16 +675,6 @@
   }
   #btnExport:hover { background: linear-gradient(135deg,#163e82,#1e50b0); transform: translateY(-1px); }
 
-  #btnReset {
-    padding: 8px 11px;
-    background: linear-gradient(135deg,#a01a1a,#c62525);
-    color: white; border: none; border-radius: 7px;
-    font-size: 12px; font-weight: 700; cursor: pointer;
-    transition: all 0.18s; box-shadow: 0 2px 5px rgba(160,26,26,0.28);
-    white-space: nowrap;
-  }
-  #btnReset:hover { background: linear-gradient(135deg,#821616,#b01e1e); transform: translateY(-1px); }
-
   /* Saved rows */
   .saved-row {
     display: flex; align-items: center; padding: 2px 6px;
@@ -707,30 +687,6 @@
   .saved-row .sr-h   { color: #8B4513; white-space: nowrap; }
   .saved-row .sr-del { cursor: pointer; color: #cc0000; font-weight: 700; padding: 0 3px; font-size: 13px; }
   .saved-row .sr-del:hover { color: #ff0000; }
-
-  /* Cycle list in Dates card */
-  #cycleList {
-    margin-top: 8px;
-    display: flex; flex-direction: column; gap: 4px;
-  }
-  .cycle-row {
-    display: flex; align-items: center; gap: 5px;
-    background: #f4f6fb; border: 1px solid #dde3ed;
-    border-radius: 6px; padding: 4px 7px; font-size: 11px;
-  }
-  .cycle-row .cy-num  { font-weight: 800; color: #1a3a6a; min-width: 18px; }
-  .cycle-row .cy-p    { color: #228B22; font-weight: 600; }
-  .cycle-row .cy-h    { color: #8B4513; font-weight: 600; }
-  .cycle-row .cy-del  { margin-left: auto; cursor: pointer; color: #cc0000;
-                        font-weight: 700; font-size: 13px; line-height: 1; }
-  .cycle-row .cy-del:hover { color: #ff0000; }
-  #btnAddCycle {
-    width: 100%; margin-top: 7px; padding: 5px;
-    background: #e8f4e8; border: 1px dashed #228B22;
-    border-radius: 6px; color: #1a6e1a; font-size: 12px;
-    font-weight: 700; cursor: pointer; transition: background 0.15s;
-  }
-  #btnAddCycle:hover { background: #d0ebd0; }
 
   /* keyboard hint */
   .kbd-hint { font-size: 10px; color: #aaa; text-align: center; padding: 4px 0 0; }
@@ -815,9 +771,6 @@
         <span id="idCounter">0 / 0</span>
         <button onclick="nextId()" title="Next (→)">&#9654;</button>
       </div>
-      <select id="provFilter" onchange="applyProvFilter()">
-        <option value="">🗂 All Provinces</option>
-      </select>
       <input type="text" id="idSearch" placeholder="🔍 Search ID…"
              oninput="onIdSearch()" autocomplete="off">
       <select id="idSelect" size="10" onchange="onIdListClick()"></select>
@@ -872,28 +825,23 @@
       <button class="drb-btn" onclick="setQuickRange(90)"  id="drb90">3M</button>
       <button class="drb-btn" onclick="setQuickRange(180)" id="drb180">6M</button>
       <button class="drb-btn" onclick="setQuickRange(365)" id="drb365">1Y</button>
-      <button class="drb-btn" onclick="setQuickRange(548)" id="drb365">1.5Y</button>
       <button class="drb-btn" onclick="setQuickRange(730)" id="drb730">2Y</button>
       <button class="drb-btn" onclick="setFullRange()"     id="drbAll">All</button>
       <button class="drb-btn" style="border-color:#8B4513;color:#8B4513;" onclick="resetDateRange()">↺ Reset</button>
     </div>
 
-    <!-- Info bar: Province / District / X / Y above chart -->
+    <!-- Info bar: Province + X/Y above chart -->
     <div id="chartInfo">
       <div class="ci-item">
-        <span class="ci-label">Province</span>
+        <span class="ci-label">Province : </span>
         <span class="ci-val" id="ciProvince">—</span>
       </div>
       <div class="ci-item">
-        <span class="ci-label">District</span>
-        <span class="ci-val" id="ciDistrict">—</span>
-      </div>
-      <div class="ci-item">
-        <span class="ci-label">X</span>
+        <span class="ci-label">X : </span>
         <span class="ci-val" id="ciX">—</span>
       </div>
       <div class="ci-item">
-        <span class="ci-label">Y</span>
+        <span class="ci-label">Y : </span>
         <span class="ci-val" id="ciY">—</span>
       </div>
     </div>
@@ -956,8 +904,6 @@
             <span class="cp-lbl">Harvest</span>
             <input type="date" id="hdateInput" class="cp-date-input" onchange="onHDateChange()">
           </div>
-          <button id="btnAddCycle" onclick="addCycle()">➕ Add Cycle</button>
-          <div id="cycleList"></div>
         </div>
 
         <!-- Save card -->
@@ -983,10 +929,7 @@
           </div>
           <div id="savedList" style="flex:1;overflow-y:auto;border:1px solid #e8edf3;
                border-radius:6px;margin-bottom:7px;min-height:30px;max-height:70px;"></div>
-          <div style="display:flex;gap:6px;margin-bottom:4px;">
-            <button id="btnExport" onclick="exportResults()" style="flex:1;">📥 Export CSV</button>
-            <button id="btnReset" onclick="resetResults()" title="Clear all saved results">🗑 Reset</button>
-          </div>
+          <button id="btnExport" onclick="exportResults()">📥 Export CSV</button>
           <div id="exportMsg" style="font-size:11px;color:#1a4fa0;text-align:center;margin-top:3px;height:14px;"></div>
         </div>
 
@@ -1014,9 +957,8 @@ const S = {
   idData:      {},      // { id: [ {Date, mean_value, smooth?, Province, ...} ] }
   estimates:   {},      // { id: { P_Date_est:..., Province:... } }
   ids:         [],
-  _allIds:     [],      // full unfiltered list
   currentIdx:  0,
-  results:     {},      // { id: { cycles:[{pdate,hdate,remark}], province, pest } }
+  results:     {},      // { id: { pdate, hdate, remark, province, pest } }
   setMode:     null,    // 'p' | 'h' | null
   _estMeta:    { filename:null, idCol:null, pdCol:null, allCols:[], ids:[] },
   _idMap:      {},   // combineId → estimateId
@@ -1569,14 +1511,12 @@ function processAllRows(records) {
 
   // Natural sort: KH_C1 → KH_C2 → … → KH_C10 → KH_C11 (not lexicographic)
   S.ids = Object.keys(S.idData).sort(naturalSort);
-  S._allIds = [...S.ids];
   S.currentIdx = 0;
   S.results = {};
 
   // Build ID map now (estimate may already be loaded)
   buildIdMap();
 
-  populateProvFilter();
   populateIdList();
   renderCurrentId();
   document.getElementById('emptyState').style.display = 'none';
@@ -1633,50 +1573,6 @@ function onIdListClick() {
   const sel = document.getElementById('idSelect');
   const idx = S.ids.indexOf(sel.value);
   if (idx >= 0) { S.currentIdx = idx; renderCurrentId(); }
-}
-
-// ─── Province filter ────────────────────────────────────────────────────────
-function populateProvFilter() {
-  const sel = document.getElementById('provFilter');
-  if (!sel) return;
-  // Collect unique provinces from estimates
-  const provSet = new Set();
-  S._allIds.forEach(id => {
-    const est = S.estimates[id] || S.estimates[S._idMap?.[id]];
-    const prov = est?._raw?.Province || est?.Province || '';
-    if (prov) provSet.add(prov);
-  });
-  const sorted = [...provSet].sort();
-  sel.innerHTML = `<option value="">🗂 All Provinces (${S._allIds.length})</option>`;
-  sorted.forEach(p => {
-    const count = S._allIds.filter(id => {
-      const est = S.estimates[id] || S.estimates[S._idMap?.[id]];
-      return (est?._raw?.Province || est?.Province || '') === p;
-    }).length;
-    const o = document.createElement('option');
-    o.value = p;
-    o.textContent = `${p}  (${count})`;
-    sel.appendChild(o);
-  });
-}
-
-function applyProvFilter() {
-  const prov = document.getElementById('provFilter').value;
-  document.getElementById('idSearch').value = '';
-
-  if (!prov) {
-    S.ids = [...S._allIds];
-  } else {
-    S.ids = S._allIds.filter(id => {
-      const est = S.estimates[id] || S.estimates[S._idMap?.[id]];
-      return (est?._raw?.Province || est?.Province || '') === prov;
-    });
-  }
-  S.currentIdx = 0;
-  populateIdList();
-  if (S.ids.length) renderCurrentId();
-  const info = document.getElementById('idSearchInfo');
-  if (info) info.textContent = `${S.ids.length} / ${S._allIds.length} IDs`;
 }
 
 // ─── ID Search (filter + jump) ──────────────────────────────────────────────
@@ -1783,19 +1679,16 @@ function renderCurrentId() {
 
   // Update sidebar
   document.getElementById('detectedPDate').textContent = pestISO ? toDisplay(pestISO) : '—';
-  document.getElementById('pdateInput').value  = '';
-  document.getElementById('hdateInput').value  = '';
-  document.getElementById('remarkInput').value = '';
-  renderCycleList(id);
+  document.getElementById('pdateInput').value = pdISO  || '';
+  document.getElementById('hdateInput').value = hdISO  || '';
+  document.getElementById('remarkInput').value = saved.remark || '';
 
-  // Update chart info bar — Province / District / X / Y from estimate
-  const estRaw  = est?._raw || {};
-  const ciProv  = estRaw.Province  || est?.Province || prov || '—';
-  const ciDist  = estRaw.District  || '—';
-  const ciX     = estRaw.X != null ? Number(estRaw.X).toFixed(6) : '—';
-  const ciY     = estRaw.Y != null ? Number(estRaw.Y).toFixed(6) : '—';
+  // Update chart info bar — Province + X/Y from estimate
+  const estRaw = est?._raw || {};
+  const ciProv = est?.Province || prov || '—';
+  const ciX    = estRaw.X != null ? Number(estRaw.X).toFixed(2) : '—';
+  const ciY    = estRaw.Y != null ? Number(estRaw.Y).toFixed(2) : '—';
   document.getElementById('ciProvince').textContent = ciProv;
-  document.getElementById('ciDistrict').textContent = ciDist;
   document.getElementById('ciX').textContent        = ciX;
   document.getElementById('ciY').textContent        = ciY;
 
@@ -1807,7 +1700,7 @@ function renderCurrentId() {
     traces.push({
       x: dates, y: ndvi,
       mode: 'markers',
-      name: 'NDVI Sentinel-2 Raw',
+      name: 'NDVI Sentinel-2 line',
       opacity: 0.3,
       hoverinfo: 'skip',
       marker: { symbol: 'circle', size: 5, color: 'black' },
@@ -1923,13 +1816,8 @@ function renderCurrentId() {
       tickangle: -90,
       dtick:      5 * 24 * 60 * 60 * 1000,   // tick every 5 days (ms)
       tickmode:   'linear',
-      // Default view: last 1.5 years (548 days) up to last data point + 10 days
-      range: (() => {
-        const allDates = [...dates, ...cycleOverlay.allDates].filter(Boolean).sort();
-        const end   = addDays(allDates[allDates.length - 1], 10);
-        const start = addDays(end, -548);
-        return [start, end];
-      })(),
+      // Default view: all available NDVI data (user can narrow via toolbar)
+      range:      paddedDateRange(dates, cycleOverlay.allDates, 10),
       gridcolor:  '#e8e8e8',
       linecolor:  '#aaa',
       tickfont:   { size: 10 },
@@ -2024,6 +1912,8 @@ function updateChartLines() {
 
   const est     = S.estimates[id] || null;
   const pestISO = est ? toISO(parseDate(est.P_Date_est)) : null;
+  const pdISO   = document.getElementById('pdateInput').value || null;
+  const hdISO   = document.getElementById('hdateInput').value || null;
   const dates   = rows.map(r => r._date);
 
   const shapes = [];
@@ -2055,47 +1945,30 @@ function updateChartLines() {
     x0:pestISO, x1:pestISO, y0:0, y1:1,
     line:{color:'magenta', width:2, dash:'dot'},
   });
-  // Draw all saved cycles for this ID
-  const savedCycles = (S.results[id] && S.results[id].cycles) ? S.results[id].cycles : [];
-  // Also show current inputs as a preview cycle (not yet added)
-  const pdISO = document.getElementById('pdateInput').value || null;
-  const hdISO = document.getElementById('hdateInput').value || null;
-  const previewCycles = (pdISO || hdISO) ? [{ pdate: pdISO, hdate: hdISO, preview: true }] : [];
-  const allCycles = [...savedCycles, ...previewCycles];
+  if (pdISO) shapes.push({
+    type:'line', xref:'x', yref:'paper',
+    x0:pdISO, x1:pdISO, y0:0, y1:1,
+    line:{color:'#228B22', width:2.5, dash:'solid'},
+  });
+  if (hdISO) shapes.push({
+    type:'line', xref:'x', yref:'paper',
+    x0:hdISO, x1:hdISO, y0:0, y1:1,
+    line:{color:'#8B4513', width:2.5, dash:'solid'},
+  });
 
   const annotations = [];
   if (pestISO) annotations.push({ x:pestISO, y:0.97, xref:'x', yref:'paper',
     text:'<b>P_est</b>', showarrow:false, xanchor:'left',
     font:{color:'magenta',size:10}, bgcolor:'rgba(255,255,255,0.85)',
     bordercolor:'magenta', borderwidth:1, borderpad:2 });
-
-  allCycles.forEach((c, i) => {
-    const label   = c.preview ? 'P?' : `P${i + 1}`;
-    const hlabel  = c.preview ? 'H?' : `H${i + 1}`;
-    const pColor  = c.preview ? '#66bb6a' : '#228B22';
-    const hColor  = c.preview ? '#a0785a' : '#8B4513';
-    const yOff    = 0.87 - i * 0.08;
-    if (c.pdate) {
-      shapes.push({ type:'line', xref:'x', yref:'paper',
-        x0:c.pdate, x1:c.pdate, y0:0, y1:1,
-        line:{ color:pColor, width: c.preview ? 1.5 : 2.5,
-               dash: c.preview ? 'dot' : 'solid' } });
-      annotations.push({ x:c.pdate, y:yOff, xref:'x', yref:'paper',
-        text:`<b>${label}</b>`, showarrow:false, xanchor:'left',
-        font:{color:pColor, size:10}, bgcolor:'rgba(255,255,255,0.85)',
-        bordercolor:pColor, borderwidth:1, borderpad:2 });
-    }
-    if (c.hdate) {
-      shapes.push({ type:'line', xref:'x', yref:'paper',
-        x0:c.hdate, x1:c.hdate, y0:0, y1:1,
-        line:{ color:hColor, width: c.preview ? 1.5 : 2.5,
-               dash: c.preview ? 'dot' : 'solid' } });
-      annotations.push({ x:c.hdate, y:yOff, xref:'x', yref:'paper',
-        text:`<b>${hlabel}</b>`, showarrow:false, xanchor:'left',
-        font:{color:hColor, size:10}, bgcolor:'rgba(255,255,255,0.85)',
-        bordercolor:hColor, borderwidth:1, borderpad:2 });
-    }
-  });
+  if (pdISO) annotations.push({ x:pdISO, y:0.87, xref:'x', yref:'paper',
+    text:'<b>P</b>', showarrow:false, xanchor:'left',
+    font:{color:'#228B22',size:10}, bgcolor:'rgba(255,255,255,0.85)',
+    bordercolor:'#228B22', borderwidth:1, borderpad:2 });
+  if (hdISO) annotations.push({ x:hdISO, y:0.87, xref:'x', yref:'paper',
+    text:'<b>H</b>', showarrow:false, xanchor:'left',
+    font:{color:'#8B4513',size:10}, bgcolor:'rgba(255,255,255,0.85)',
+    bordercolor:'#8B4513', borderwidth:1, borderpad:2 });
 
   annotations.push({ xref:'paper', yref:'y', x:1, y:0.2, text:'0.2',
     showarrow:false, xanchor:'right', font:{color:'darkred',size:10}, bgcolor:'rgba(255,255,255,0.7)' });
@@ -2158,86 +2031,39 @@ function clearMode() {
 // ═══════════════════════════════════════════════════════════════════
 //  SAVE / EXPORT
 // ═══════════════════════════════════════════════════════════════════
-// ── Add current P/H inputs as a new cycle for this ID ───────────────
-function addCycle() {
+function saveCurrentId() {
   if (!S.ids.length) return;
   const id  = S.ids[S.currentIdx];
-  const pd  = document.getElementById('pdateInput').value  || null;
-  const hd  = document.getElementById('hdateInput').value  || null;
-  const rem = document.getElementById('remarkInput').value || '';
-  if (!pd && !hd) { flashMsg('saveMsg', '⚠ Set at least one date', '#cc7700'); return; }
-
   const est = getEstimate(id) || {};
-  if (!S.results[id]) {
-    S.results[id] = {
-      cycles:   [],
-      province: est.Province || (S.idData[id]?.[0]?._prov) || '',
-      pest:     est.P_Date_est ? toISO(parseDate(est.P_Date_est)) : null,
-    };
-  }
-  S.results[id].cycles.push({ pdate: pd, hdate: hd, remark: rem });
+  S.results[id] = {
+    pdate:    document.getElementById('pdateInput').value  || null,
+    hdate:    document.getElementById('hdateInput').value  || null,
+    remark:   document.getElementById('remarkInput').value || '',
+    province: est.Province || (S.idData[id]?.[0]?._prov) || '',
+    pest:     est.P_Date_est ? toISO(parseDate(est.P_Date_est)) : null,
+  };
 
-  // Clear inputs for next cycle
-  document.getElementById('pdateInput').value  = '';
-  document.getElementById('hdateInput').value  = '';
-  document.getElementById('remarkInput').value = '';
-
-  flashMsg('saveMsg', `✓ Cycle ${S.results[id].cycles.length} added`);
-  renderCycleList(id);
+  flashMsg('saveMsg', `✓ Saved: ${id}`);
   syncIdList();
   renderSavedList();
-  updateChartLines();
-}
-
-// ── Save current inputs as single cycle (keyboard S shortcut) ────────
-function saveCurrentId() {
-  addCycle();
-}
-
-// ── Render the cycle list for current ID in the Dates card ───────────
-function renderCycleList(id) {
-  const el  = document.getElementById('cycleList');
-  if (!el) return;
-  const res = S.results[id];
-  if (!res || !res.cycles || !res.cycles.length) { el.innerHTML = ''; return; }
-  el.innerHTML = res.cycles.map((c, i) => `
-    <div class="cycle-row">
-      <span class="cy-num">C${i + 1}</span>
-      <span class="cy-p">🌱 ${c.pdate ? toDisplay(c.pdate) : '—'}</span>
-      <span class="cy-h">🌾 ${c.hdate ? toDisplay(c.hdate) : '—'}</span>
-      ${c.remark ? `<span style="color:#888;font-size:10px;">${c.remark}</span>` : ''}
-      <span class="cy-del" onclick="removeCycle('${id}', ${i})">×</span>
-    </div>`).join('');
-}
-
-// ── Remove a specific cycle ──────────────────────────────────────────
-function removeCycle(id, idx) {
-  if (!S.results[id]) return;
-  S.results[id].cycles.splice(idx, 1);
-  if (!S.results[id].cycles.length) delete S.results[id];
-  renderCycleList(id);
-  syncIdList();
-  renderSavedList();
-  updateChartLines();
 }
 
 function renderSavedList() {
   const ids   = Object.keys(S.results);
   const list  = document.getElementById('savedList');
   const sumEl = document.getElementById('savedSummary');
-  const totalCycles = ids.reduce((n, id) => n + (S.results[id].cycles?.length || 0), 0);
-  sumEl.textContent = `Saved: ${ids.length} IDs · ${totalCycles} cycles`;
+  sumEl.textContent = `Saved: ${ids.length} / ${S.ids.length} IDs`;
 
   list.innerHTML = '';
   ids.forEach(id => {
-    const r    = S.results[id];
-    const cycs = r.cycles || [];
-    const row  = document.createElement('div');
+    const r   = S.results[id];
+    const row = document.createElement('div');
     row.className = 'saved-row';
     row.innerHTML = `
-      <span class="sr-id" title="${id}" onclick="jumpToId('${id}')" style="cursor:pointer;">${id}</span>
-      <span class="sr-p" style="font-size:10px;">${cycs.length} cycle${cycs.length!==1?'s':''}</span>
-      <span class="sr-del" onclick="deleteResult('${id}')" title="Remove all cycles">×</span>`;
+      <span class="sr-id" title="${id}">${id}</span>
+      <span class="sr-p">${r.pdate ? toDisplay(r.pdate) : '—'}</span>
+      <span class="sr-h">${r.hdate ? toDisplay(r.hdate) : '—'}</span>
+      <span class="sr-del" onclick="deleteResult('${id}')" title="Remove">×</span>`;
     list.appendChild(row);
   });
 }
@@ -2248,47 +2074,22 @@ function deleteResult(id) {
   renderSavedList();
 }
 
-function resetResults() {
-  if (!Object.keys(S.results).length) return;
-  if (!confirm('Reset all saved results? This cannot be undone.')) return;
-  S.results = {};
-  renderCycleList(S.ids[S.currentIdx]);
-  syncIdList();
-  renderSavedList();
-  updateChartLines();
-  flashMsg('exportMsg', '✓ All results cleared', '#cc7700');
-}
-
-/** Convert any date string → 'MM/DD/YY' for Excel export */
-function fmtExport(raw) {
-  if (!raw) return '';
-  const iso = toISO(parseDate(raw));
-  if (!iso) return '';
-  const [y, mo, d] = iso.split('-');
-  return `${mo.padStart(2,'0')}/${d.padStart(2,'0')}/${y.slice(-2)}`;
-}
-
 async function exportResults() {
   const ids = Object.keys(S.results);
   if (!ids.length) {
     flashMsg('exportMsg', '⚠ Nothing saved yet', '#cc7700');
     return;
   }
-  const rows = [];
-  ids.forEach(id => {
-    const r    = S.results[id];
-    const cycs = r.cycles || [];
-    cycs.forEach((c, i) => {
-      rows.push({
-        ID:         id,
-        Cycle:      i + 1,
-        Province:   r.province  || '',
-        P_Date_est: fmtExport(r.pest),
-        Pdate_user: fmtExport(c.pdate),
-        Hdate_user: fmtExport(c.hdate),
-        Remark:     c.remark    || '',
-      });
-    });
+  const rows = ids.map(id => {
+    const r = S.results[id];
+    return {
+      ID:         id,
+      Province:   r.province,
+      P_Date_est: r.pest     ? toDisplay(r.pest)  : '',
+      Pdate_user: r.pdate    ? toDisplay(r.pdate) : '',
+      Hdate_user: r.hdate    ? toDisplay(r.hdate) : '',
+      Remark:     r.remark   || '',
+    };
   });
 
   try {
@@ -2312,52 +2113,6 @@ async function exportResults() {
     downloadCsv(rows, fname);
     flashMsg('exportMsg', `✓ Downloaded ${fname}`);
   }
-}
-
-function downloadCsv(rows, filename) {
-  if (!rows.length) return;
-  const headers = Object.keys(rows[0]);
-  const lines   = [headers.join(',')];
-  rows.forEach(r => {
-    lines.push(headers.map(h => {
-      const v = String(r[h] ?? '');
-      return v.includes(',') ? `"${v}"` : v;
-    }).join(','));
-  });
-  const blob = new Blob([lines.join('\n')], {type:'text/csv'});
-  const url  = URL.createObjectURL(blob);
-  const a    = document.createElement('a');
-  a.href = url; a.download = filename; a.click();
-  URL.revokeObjectURL(url);
-}
-
-// ═══════════════════════════════════════════════════════════════════
-//  DROPDOWN CHANGE HANDLERS
-// ═══════════════════════════════════════════════════════════════════
-async function onCountryChange() {
-  S.country = document.getElementById('countrySelect').value;
-  S.results = {};
-  renderSavedList();
-  showLoading('Switching country…');
-  await refreshFileDropdowns();
-  await reloadAll();
-  hideLoading();
-}
-
-async function onCombineChange() {
-  S.combineFile = document.getElementById('combineSelect').value || null;
-  await loadCombineData(S.combineFile);
-}
-
-async function onEstimateChange() {
-  S.estimateFile = document.getElementById('estimateSelect').value || null;
-  await loadEstimateData(S.estimateFile);
-  if (S.ids.length) renderCurrentId();
-}
-
-async function reloadAll() {
-  await loadEstimateData(S.estimateFile);
-  await loadCombineData(S.combineFile);
 }
 
 function downloadCsv(rows, filename) {
@@ -2457,7 +2212,6 @@ function naturalSort(a, b) {
 // ═══════════════════════════════════════════════════════════════════
 
 /** Initialise From/To inputs to the full date range of the current ID */
-/** Initialise From/To inputs to last 1.5 years (548 days) of current ID */
 function initDateRangeInputs() {
   const id   = S.ids[S.currentIdx];
   const rows = S.idData[id] || [];
@@ -2466,12 +2220,10 @@ function initDateRangeInputs() {
   if (!sEl || !eEl) return;
   if (rows.length) {
     const sorted = rows.map(r => r._date).sort();
-    const end   = addDays(sorted[sorted.length - 1], 10);  // last date + 10 day pad
-    const start = addDays(end, -548);                       // step back 1.5 years
-    sEl.value = start;
-    eEl.value = end;
+    sEl.value = addDays(sorted[0], -10);
+    eEl.value = addDays(sorted[sorted.length - 1], 30);
   }
-  highlightActiveQuickBtn(548);
+  highlightActiveQuickBtn('all');   // All data is the default
 }
 
 /** Apply the current From/To input values to the Plotly x-axis */
@@ -2513,7 +2265,6 @@ function setFullRange() {
 function resetDateRange() {
   setFullRange();
 }
-
 
 /** Highlight the active quick-range button */
 function highlightActiveQuickBtn(active) {
