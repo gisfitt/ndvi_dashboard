@@ -36,15 +36,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1002",
-    "P_Date_est_C1_2627":"4\/30\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xaignabouly",
-    "X":101.263735,
-    "Y":18.083485,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1004",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -82,7 +73,7 @@
   },
   {
     "ID":"Lo_T1010",
-    "P_Date_est_C1_2627":"5\/2\/2026",
+    "P_Date_est_C1_2627":"4\/27\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":105.068719,
@@ -190,7 +181,7 @@
   },
   {
     "ID":"Lo_T1030",
-    "P_Date_est_C1_2627":"4\/27\/2026",
+    "P_Date_est_C1_2627":"4\/22\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Khammouan",
     "X":104.579488,
@@ -216,15 +207,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1034",
-    "P_Date_est_C1_2627":"4\/30\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xaignabouly",
-    "X":101.251765,
-    "Y":18.110106,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1036",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -244,7 +226,7 @@
   },
   {
     "ID":"Lo_T1039",
-    "P_Date_est_C1_2627":"5\/2\/2026",
+    "P_Date_est_C1_2627":"4\/22\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":105.025551,
@@ -279,8 +261,17 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T1044",
+    "P_Date_est_C1_2627":"4\/27\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Khammouan",
+    "X":104.584027,
+    "Y":18.117226,
+    "remark":"Cassava"
+  },
+  {
     "ID":"Lo_T1046",
-    "P_Date_est_C1_2627":"5\/2\/2026",
+    "P_Date_est_C1_2627":"4\/22\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Khammouan",
     "X":104.57216,
@@ -325,8 +316,8 @@
   },
   {
     "ID":"Lo_T1050",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/7\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":105.047135,
     "Y":18.121048,
@@ -403,6 +394,15 @@
     "X":101.281341,
     "Y":18.128832,
     "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1067",
+    "P_Date_est_C1_2627":"4\/17\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Bolikhamxai",
+    "X":105.016361,
+    "Y":18.133911,
+    "remark":"Cassava"
   },
   {
     "ID":"Lo_T1068",
@@ -613,8 +613,8 @@
   },
   {
     "ID":"Lo_T1098",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/7\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":105.011162,
     "Y":18.17141,
@@ -622,8 +622,8 @@
   },
   {
     "ID":"Lo_T1099",
-    "P_Date_est_C1_2627":"4\/22\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Bolikhamxai",
     "X":105.011162,
     "Y":18.185799,
@@ -649,7 +649,7 @@
   },
   {
     "ID":"Lo_T1101",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"5\/7\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":104.241304,
@@ -685,8 +685,8 @@
   },
   {
     "ID":"Lo_T1105",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/22\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":105.009413,
     "Y":18.195968,
@@ -718,6 +718,15 @@
     "X":104.236677,
     "Y":18.201113,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T1109",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.315767,
+    "Y":18.207246,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T111",
@@ -756,6 +765,15 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T1115",
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.335792,
+    "Y":18.228014,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1116",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -771,6 +789,15 @@
     "Province":"Bolikhamxai",
     "X":104.932022,
     "Y":18.228967,
+    "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T1118",
+    "P_Date_est_C1_2627":"5\/7\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Bolikhamxai",
+    "X":105.008343,
+    "Y":18.23116,
     "remark":"Cassava"
   },
   {
@@ -792,6 +819,15 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T1120",
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.313925,
+    "Y":18.236783,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1121",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -799,6 +835,15 @@
     "X":105.032746,
     "Y":18.243356,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T1122",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.314305,
+    "Y":18.245482,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T1123",
@@ -810,8 +855,17 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T1124",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.323024,
+    "Y":18.25224,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1125",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.330562,
@@ -1000,7 +1054,7 @@
   },
   {
     "ID":"Lo_T1150",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.489421,
@@ -1131,6 +1185,15 @@
     "Province":"Vientiane",
     "X":102.109689,
     "Y":18.430021,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1165",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Vientiane",
+    "X":102.115781,
+    "Y":18.43033,
     "remark":"Corn"
   },
   {
@@ -1279,7 +1342,7 @@
   },
   {
     "ID":"Lo_T1183",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Vientiane",
     "X":102.154384,
@@ -1306,7 +1369,7 @@
   },
   {
     "ID":"Lo_T1186",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Vientiane",
     "X":102.160452,
@@ -1324,8 +1387,8 @@
   },
   {
     "ID":"Lo_T1188",
-    "P_Date_est_C1_2627":"4\/10\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Vientiane",
     "X":102.152493,
     "Y":18.503745,
@@ -1360,8 +1423,8 @@
   },
   {
     "ID":"Lo_T1191",
-    "P_Date_est_C1_2627":"4\/10\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Vientiane",
     "X":102.180438,
     "Y":18.522077,
@@ -1378,8 +1441,8 @@
   },
   {
     "ID":"Lo_T1193",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/27\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":104.44399,
     "Y":18.539608,
@@ -1486,8 +1549,8 @@
   },
   {
     "ID":"Lo_T1205",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/2\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":104.42732,
     "Y":18.555249,
@@ -1504,8 +1567,8 @@
   },
   {
     "ID":"Lo_T1207",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/2\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":104.415827,
     "Y":18.558437,
@@ -1648,8 +1711,8 @@
   },
   {
     "ID":"Lo_T1221",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/7\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":104.392429,
     "Y":18.59589,
@@ -1666,8 +1729,8 @@
   },
   {
     "ID":"Lo_T1223",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/27\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":104.493153,
     "Y":18.617474,
@@ -1675,8 +1738,8 @@
   },
   {
     "ID":"Lo_T1224",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/2\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":104.500347,
     "Y":18.617474,
@@ -1711,8 +1774,8 @@
   },
   {
     "ID":"Lo_T1229",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/27\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":104.493389,
     "Y":18.634567,
@@ -1801,8 +1864,8 @@
   },
   {
     "ID":"Lo_T1240",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.542932,
     "Y":18.669573,
@@ -1846,8 +1909,8 @@
   },
   {
     "ID":"Lo_T1248",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xaignabouly",
     "X":101.555747,
     "Y":18.701609,
@@ -1873,8 +1936,8 @@
   },
   {
     "ID":"Lo_T1250",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xaignabouly",
     "X":101.577123,
     "Y":18.704129,
@@ -1909,8 +1972,8 @@
   },
   {
     "ID":"Lo_T1255",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/17\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaisomboon",
     "X":103.752725,
     "Y":18.906787,
@@ -1981,7 +2044,7 @@
   },
   {
     "ID":"Lo_T1264",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"4\/17\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xaisomboon",
     "X":103.802473,
@@ -2017,7 +2080,7 @@
   },
   {
     "ID":"Lo_T1268",
-    "P_Date_est_C1_2627":"5\/2\/2026",
+    "P_Date_est_C1_2627":"5\/7\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xaisomboon",
     "X":103.759306,
@@ -2179,8 +2242,8 @@
   },
   {
     "ID":"Lo_T1286",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/7\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaisomboon",
     "X":103.8536,
     "Y":19.019035,
@@ -2314,8 +2377,8 @@
   },
   {
     "ID":"Lo_T1303",
-    "P_Date_est_C1_2627":"4\/20\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xaignabouly",
     "X":101.613512,
     "Y":19.085253,
@@ -2404,7 +2467,7 @@
   },
   {
     "ID":"Lo_T1317",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.205531,
@@ -2602,12 +2665,21 @@
   },
   {
     "ID":"Lo_T1338",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/12\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.967949,
     "Y":19.236208,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T1339",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xiengkhouang",
+    "X":103.132739,
+    "Y":19.289611,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T134",
@@ -2679,6 +2751,15 @@
     "Province":"Louangphabang",
     "X":102.475566,
     "Y":19.358302,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1347",
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Louangphabang",
+    "X":102.544844,
+    "Y":19.360872,
     "remark":"Corn"
   },
   {
@@ -2791,7 +2872,7 @@
   },
   {
     "ID":"Lo_T1359",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.475388,
@@ -2845,8 +2926,8 @@
   },
   {
     "ID":"Lo_T1364",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.460968,
     "Y":19.39942,
@@ -2886,15 +2967,6 @@
     "Province":"Louangphabang",
     "X":102.518243,
     "Y":19.402396,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1369",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Louangphabang",
-    "X":102.529578,
-    "Y":19.404195,
     "remark":"Corn"
   },
   {
@@ -2980,7 +3052,7 @@
   },
   {
     "ID":"Lo_T1378",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":102.714765,
@@ -3025,8 +3097,8 @@
   },
   {
     "ID":"Lo_T1382",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.43576,
     "Y":19.421369,
@@ -3070,7 +3142,7 @@
   },
   {
     "ID":"Lo_T1387",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.428593,
@@ -3106,8 +3178,8 @@
   },
   {
     "ID":"Lo_T1392",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.511704,
     "Y":19.427666,
@@ -3169,8 +3241,8 @@
   },
   {
     "ID":"Lo_T1399",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":102.712945,
     "Y":19.431937,
@@ -3205,7 +3277,7 @@
   },
   {
     "ID":"Lo_T1403",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.435997,
@@ -3228,6 +3300,15 @@
     "Province":"Xiengkhouang",
     "X":103.869134,
     "Y":19.436481,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1406",
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Louangphabang",
+    "X":102.464404,
+    "Y":19.43684,
     "remark":"Corn"
   },
   {
@@ -3268,8 +3349,8 @@
   },
   {
     "ID":"Lo_T1411",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.534175,
     "Y":19.439644,
@@ -3295,8 +3376,8 @@
   },
   {
     "ID":"Lo_T1414",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.525481,
     "Y":19.443799,
@@ -3502,8 +3583,8 @@
   },
   {
     "ID":"Lo_T1435",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.534961,
     "Y":19.457705,
@@ -3538,7 +3619,7 @@
   },
   {
     "ID":"Lo_T1439",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.47187,
@@ -3592,7 +3673,7 @@
   },
   {
     "ID":"Lo_T1445",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.456174,
@@ -3601,8 +3682,8 @@
   },
   {
     "ID":"Lo_T1446",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.53863,
     "Y":19.46253,
@@ -3610,8 +3691,8 @@
   },
   {
     "ID":"Lo_T1447",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.1613,
     "Y":19.463608,
@@ -3664,8 +3745,8 @@
   },
   {
     "ID":"Lo_T1452",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.529136,
     "Y":19.465928,
@@ -3808,11 +3889,20 @@
   },
   {
     "ID":"Lo_T1468",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangphabang",
     "X":102.493167,
     "Y":19.490424,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1469",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Louangphabang",
+    "X":102.429873,
+    "Y":19.491899,
     "remark":"Corn"
   },
   {
@@ -3844,8 +3934,8 @@
   },
   {
     "ID":"Lo_T1472",
-    "P_Date_est_C1_2627":"4\/10\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangphabang",
     "X":102.492215,
     "Y":19.497182,
@@ -3898,7 +3988,7 @@
   },
   {
     "ID":"Lo_T1479",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.570676,
@@ -4006,8 +4096,8 @@
   },
   {
     "ID":"Lo_T1492",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangphabang",
     "X":102.501114,
     "Y":19.526354,
@@ -4105,8 +4195,8 @@
   },
   {
     "ID":"Lo_T1502",
-    "P_Date_est_C1_2627":"5\/5\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.483685,
     "Y":19.531505,
@@ -4150,7 +4240,7 @@
   },
   {
     "ID":"Lo_T1507",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.581187,
@@ -4186,8 +4276,8 @@
   },
   {
     "ID":"Lo_T1510",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.254126,
     "Y":19.533471,
@@ -4258,8 +4348,8 @@
   },
   {
     "ID":"Lo_T152",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/24\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Champasack",
     "X":106.111932,
     "Y":15.192856,
@@ -4285,7 +4375,7 @@
   },
   {
     "ID":"Lo_T1522",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.485135,
@@ -4303,8 +4393,8 @@
   },
   {
     "ID":"Lo_T1525",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangphabang",
     "X":102.528478,
     "Y":19.537632,
@@ -4428,15 +4518,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1538",
-    "P_Date_est_C1_2627":"5\/5\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xiengkhouang",
-    "X":103.500433,
-    "Y":19.541263,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1539",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -4528,8 +4609,8 @@
   },
   {
     "ID":"Lo_T1548",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.528651,
     "Y":19.544995,
@@ -4573,8 +4654,8 @@
   },
   {
     "ID":"Lo_T1552",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangphabang",
     "X":102.531952,
     "Y":19.54539,
@@ -4582,20 +4663,38 @@
   },
   {
     "ID":"Lo_T1553",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.712239,
     "Y":19.545472,
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T1554",
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Louangphabang",
+    "X":102.583927,
+    "Y":19.546344,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1555",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.259551,
     "Y":19.546843,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1556",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Louangphabang",
+    "X":102.397076,
+    "Y":19.546897,
     "remark":"Corn"
   },
   {
@@ -4699,8 +4798,8 @@
   },
   {
     "ID":"Lo_T1569",
-    "P_Date_est_C1_2627":"4\/10\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangphabang",
     "X":102.526003,
     "Y":19.54853,
@@ -4771,19 +4870,10 @@
   },
   {
     "ID":"Lo_T1578",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.408995,
-    "Y":19.553988,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1579",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.67704,
     "Y":19.553988,
     "remark":"Corn"
   },
@@ -4888,8 +4978,8 @@
   },
   {
     "ID":"Lo_T1590",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.531843,
     "Y":19.556829,
@@ -4933,7 +5023,7 @@
   },
   {
     "ID":"Lo_T1596",
-    "P_Date_est_C1_2627":"5\/7\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.722006,
@@ -4987,7 +5077,7 @@
   },
   {
     "ID":"Lo_T1600",
-    "P_Date_est_C1_2627":"4\/12\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.654741,
@@ -5077,7 +5167,7 @@
   },
   {
     "ID":"Lo_T1611",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.620086,
@@ -5176,7 +5266,7 @@
   },
   {
     "ID":"Lo_T1622",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.587107,
@@ -5221,7 +5311,7 @@
   },
   {
     "ID":"Lo_T1627",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.573723,
@@ -5293,7 +5383,7 @@
   },
   {
     "ID":"Lo_T1634",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.659053,
@@ -5311,8 +5401,8 @@
   },
   {
     "ID":"Lo_T1637",
-    "P_Date_est_C1_2627":"4\/10\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.328097,
     "Y":19.572264,
@@ -5320,7 +5410,7 @@
   },
   {
     "ID":"Lo_T1638",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.318919,
@@ -5419,7 +5509,7 @@
   },
   {
     "ID":"Lo_T1649",
-    "P_Date_est_C1_2627":"4\/12\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.66355,
@@ -5454,18 +5544,9 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1652",
-    "P_Date_est_C1_2627":"4\/22\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xiengkhouang",
-    "X":103.639828,
-    "Y":19.577183,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1653",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.317891,
     "Y":19.577578,
@@ -5599,7 +5680,7 @@
   },
   {
     "ID":"Lo_T1669",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.303821,
@@ -5617,8 +5698,8 @@
   },
   {
     "ID":"Lo_T1670",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.668046,
     "Y":19.585464,
@@ -5635,7 +5716,7 @@
   },
   {
     "ID":"Lo_T1674",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.726502,
@@ -5707,8 +5788,8 @@
   },
   {
     "ID":"Lo_T1682",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/2\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.885255,
     "Y":19.590409,
@@ -5716,7 +5797,7 @@
   },
   {
     "ID":"Lo_T1684",
-    "P_Date_est_C1_2627":"4\/17\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.641971,
@@ -5779,8 +5860,8 @@
   },
   {
     "ID":"Lo_T1690",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/7\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.890015,
     "Y":19.594443,
@@ -5932,8 +6013,8 @@
   },
   {
     "ID":"Lo_T1707",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/7\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.861401,
     "Y":19.598954,
@@ -5995,7 +6076,7 @@
   },
   {
     "ID":"Lo_T1714",
-    "P_Date_est_C1_2627":"5\/5\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.782202,
@@ -6057,6 +6138,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T1721",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.618109,
+    "Y":19.602739,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1722",
     "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
@@ -6085,8 +6175,8 @@
   },
   {
     "ID":"Lo_T1725",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.641067,
     "Y":19.603451,
@@ -6094,7 +6184,7 @@
   },
   {
     "ID":"Lo_T1726",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.775965,
@@ -6103,7 +6193,7 @@
   },
   {
     "ID":"Lo_T1727",
-    "P_Date_est_C1_2627":"5\/2\/2026",
+    "P_Date_est_C1_2627":"5\/7\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.865897,
@@ -6390,18 +6480,9 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1759",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.715743,
-    "Y":19.610967,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1760",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/7\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.924649,
     "Y":19.611216,
@@ -6436,8 +6517,8 @@
   },
   {
     "ID":"Lo_T1764",
-    "P_Date_est_C1_2627":"4\/22\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.920094,
     "Y":19.611917,
@@ -6526,8 +6607,8 @@
   },
   {
     "ID":"Lo_T1774",
-    "P_Date_est_C1_2627":"4\/30\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.78637,
     "Y":19.613115,
@@ -6589,8 +6670,8 @@
   },
   {
     "ID":"Lo_T1781",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/17\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.945307,
     "Y":19.614184,
@@ -6607,7 +6688,7 @@
   },
   {
     "ID":"Lo_T1783",
-    "P_Date_est_C1_2627":"5\/7\/2026",
+    "P_Date_est_C1_2627":"4\/22\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.932433,
@@ -6679,8 +6760,8 @@
   },
   {
     "ID":"Lo_T1791",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/2\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.864698,
     "Y":19.61709,
@@ -6778,7 +6859,7 @@
   },
   {
     "ID":"Lo_T1804",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"4\/27\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.914305,
@@ -6841,8 +6922,8 @@
   },
   {
     "ID":"Lo_T1813",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.668621,
     "Y":19.621491,
@@ -6895,7 +6976,7 @@
   },
   {
     "ID":"Lo_T1820",
-    "P_Date_est_C1_2627":"4\/27\/2026",
+    "P_Date_est_C1_2627":"5\/2\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.880019,
@@ -6913,8 +6994,8 @@
   },
   {
     "ID":"Lo_T1822",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.65006,
     "Y":19.625934,
@@ -6927,6 +7008,15 @@
     "Province":"Xiengkhouang",
     "X":103.482894,
     "Y":19.626435,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1825",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.632889,
+    "Y":19.626681,
     "remark":"Corn"
   },
   {
@@ -6975,6 +7065,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T1831",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.641597,
+    "Y":19.628389,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1832",
     "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
@@ -6994,7 +7093,7 @@
   },
   {
     "ID":"Lo_T1834",
-    "P_Date_est_C1_2627":"4\/27\/2026",
+    "P_Date_est_C1_2627":"5\/7\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.849501,
@@ -7048,7 +7147,7 @@
   },
   {
     "ID":"Lo_T1841",
-    "P_Date_est_C1_2627":"4\/27\/2026",
+    "P_Date_est_C1_2627":"4\/22\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.883884,
@@ -7084,7 +7183,7 @@
   },
   {
     "ID":"Lo_T1845",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.569121,
@@ -7137,6 +7236,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T1851",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.578114,
+    "Y":19.634927,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1852",
     "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
@@ -7147,7 +7255,7 @@
   },
   {
     "ID":"Lo_T1853",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.632073,
@@ -7165,7 +7273,7 @@
   },
   {
     "ID":"Lo_T1855",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"4\/27\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.843414,
@@ -7183,7 +7291,7 @@
   },
   {
     "ID":"Lo_T1857",
-    "P_Date_est_C1_2627":"5\/7\/2026",
+    "P_Date_est_C1_2627":"5\/2\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.852882,
@@ -7197,6 +7305,15 @@
     "Province":"Xiengkhouang",
     "X":103.469932,
     "Y":19.635428,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1859",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.606387,
+    "Y":19.636443,
     "remark":"Corn"
   },
   {
@@ -7246,7 +7363,7 @@
   },
   {
     "ID":"Lo_T1864",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.678679,
@@ -7264,7 +7381,7 @@
   },
   {
     "ID":"Lo_T1867",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.63657,
@@ -7300,8 +7417,8 @@
   },
   {
     "ID":"Lo_T1870",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/2\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.842834,
     "Y":19.639582,
@@ -7363,7 +7480,7 @@
   },
   {
     "ID":"Lo_T1877",
-    "P_Date_est_C1_2627":"4\/12\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.604145,
@@ -7471,8 +7588,8 @@
   },
   {
     "ID":"Lo_T1889",
-    "P_Date_est_C1_2627":"4\/17\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.587107,
     "Y":19.648417,
@@ -7486,6 +7603,15 @@
     "X":105.924873,
     "Y":15.329553,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T1890",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.641067,
+    "Y":19.648417,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T1891",
@@ -7534,7 +7660,7 @@
   },
   {
     "ID":"Lo_T1896",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"5\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.635621,
@@ -7660,7 +7786,7 @@
   },
   {
     "ID":"Lo_T1908",
-    "P_Date_est_C1_2627":"5\/2\/2026",
+    "P_Date_est_C1_2627":"5\/7\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.999278,
@@ -7696,7 +7822,7 @@
   },
   {
     "ID":"Lo_T1913",
-    "P_Date_est_C1_2627":"4\/10\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.528651,
@@ -7741,7 +7867,7 @@
   },
   {
     "ID":"Lo_T1918",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.594044,
@@ -7903,7 +8029,7 @@
   },
   {
     "ID":"Lo_T1936",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.601704,
@@ -7921,7 +8047,7 @@
   },
   {
     "ID":"Lo_T1938",
-    "P_Date_est_C1_2627":"4\/10\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.496859,
@@ -8074,8 +8200,8 @@
   },
   {
     "ID":"Lo_T1954",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.648919,
     "Y":19.678506,
@@ -8155,8 +8281,8 @@
   },
   {
     "ID":"Lo_T1962",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.516436,
     "Y":19.681976,
@@ -8172,15 +8298,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1964",
-    "P_Date_est_C1_2627":"5\/7\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xiengkhouang",
-    "X":103.531472,
-    "Y":19.682755,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1965",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -8191,8 +8308,8 @@
   },
   {
     "ID":"Lo_T1966",
-    "P_Date_est_C1_2627":"4\/10\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.485267,
     "Y":19.686156,
@@ -8254,8 +8371,8 @@
   },
   {
     "ID":"Lo_T1972",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.644079,
     "Y":19.691155,
@@ -8299,8 +8416,8 @@
   },
   {
     "ID":"Lo_T1977",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.474692,
     "Y":19.693383,
@@ -8317,7 +8434,7 @@
   },
   {
     "ID":"Lo_T1979",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.708772,
@@ -8352,15 +8469,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1984",
-    "P_Date_est_C1_2627":"5\/5\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xiengkhouang",
-    "X":103.694495,
-    "Y":19.696421,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1985",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -8371,7 +8479,7 @@
   },
   {
     "ID":"Lo_T1986",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.520449,
@@ -8434,7 +8542,7 @@
   },
   {
     "ID":"Lo_T1993",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.692782,
@@ -8443,8 +8551,8 @@
   },
   {
     "ID":"Lo_T1994",
-    "P_Date_est_C1_2627":"4\/20\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.485461,
     "Y":19.707345,
@@ -8475,6 +8583,15 @@
     "Province":"Xiengkhouang",
     "X":103.494392,
     "Y":19.711396,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1998",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.644998,
+    "Y":19.714705,
     "remark":"Corn"
   },
   {
@@ -8515,20 +8632,11 @@
   },
   {
     "ID":"Lo_T2000",
-    "P_Date_est_C1_2627":"4\/15\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.458835,
     "Y":19.718196,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2001",
-    "P_Date_est_C1_2627":"4\/25\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xiengkhouang",
-    "X":103.683145,
-    "Y":19.718502,
     "remark":"Corn"
   },
   {
@@ -8569,7 +8677,7 @@
   },
   {
     "ID":"Lo_T2006",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.63588,
@@ -8632,8 +8740,8 @@
   },
   {
     "ID":"Lo_T2012",
-    "P_Date_est_C1_2627":"4\/20\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.245503,
     "Y":19.73253,
@@ -8641,7 +8749,7 @@
   },
   {
     "ID":"Lo_T2013",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.648362,
@@ -8685,12 +8793,12 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2019",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "ID":"Lo_T2018",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
-    "X":103.690164,
-    "Y":19.737062,
+    "X":103.252848,
+    "Y":19.736135,
     "remark":"Corn"
   },
   {
@@ -8704,7 +8812,7 @@
   },
   {
     "ID":"Lo_T2020",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.259644,
@@ -8713,7 +8821,7 @@
   },
   {
     "ID":"Lo_T2021",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.267392,
@@ -8794,7 +8902,7 @@
   },
   {
     "ID":"Lo_T2033",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.419743,
@@ -8839,20 +8947,11 @@
   },
   {
     "ID":"Lo_T2038",
-    "P_Date_est_C1_2627":"4\/20\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.247017,
     "Y":19.762461,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2039",
-    "P_Date_est_C1_2627":"4\/20\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xiengkhouang",
-    "X":103.072685,
-    "Y":19.763021,
     "remark":"Corn"
   },
   {
@@ -8983,8 +9082,8 @@
   },
   {
     "ID":"Lo_T2054",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.783512,
     "Y":19.780304,
@@ -8992,8 +9091,8 @@
   },
   {
     "ID":"Lo_T2055",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.493022,
     "Y":19.781256,
@@ -9010,7 +9109,7 @@
   },
   {
     "ID":"Lo_T2057",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"5\/2\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.894642,
@@ -9199,8 +9298,8 @@
   },
   {
     "ID":"Lo_T2077",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.657257,
     "Y":19.79546,
@@ -9217,8 +9316,8 @@
   },
   {
     "ID":"Lo_T2079",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.645654,
     "Y":19.797388,
@@ -9235,7 +9334,7 @@
   },
   {
     "ID":"Lo_T2080",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.460397,
@@ -9307,7 +9406,7 @@
   },
   {
     "ID":"Lo_T2088",
-    "P_Date_est_C1_2627":"5\/2\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.631981,
@@ -9334,7 +9433,7 @@
   },
   {
     "ID":"Lo_T2090",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.769705,
@@ -9405,6 +9504,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2098",
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.460308,
+    "Y":19.8147,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2099",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -9451,7 +9559,7 @@
   },
   {
     "ID":"Lo_T2104",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.48556,
@@ -9487,7 +9595,7 @@
   },
   {
     "ID":"Lo_T2108",
-    "P_Date_est_C1_2627":"5\/2\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.625084,
@@ -9496,7 +9604,7 @@
   },
   {
     "ID":"Lo_T2109",
-    "P_Date_est_C1_2627":"4\/27\/2026",
+    "P_Date_est_C1_2627":"5\/2\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.887309,
@@ -9550,7 +9658,7 @@
   },
   {
     "ID":"Lo_T2114",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":102.995344,
@@ -9612,6 +9720,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2121",
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xiengkhouang",
+    "X":103.658426,
+    "Y":19.83039,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2122",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -9640,7 +9757,7 @@
   },
   {
     "ID":"Lo_T2126",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.04341,
@@ -9865,8 +9982,8 @@
   },
   {
     "ID":"Lo_T2149",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.679226,
     "Y":19.881242,
@@ -9946,8 +10063,8 @@
   },
   {
     "ID":"Lo_T2157",
-    "P_Date_est_C1_2627":"4\/10\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangphabang",
     "X":102.640161,
     "Y":19.905634,
@@ -9964,8 +10081,8 @@
   },
   {
     "ID":"Lo_T2159",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/17\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Houaphan",
     "X":103.908433,
     "Y":19.906292,
@@ -10018,7 +10135,7 @@
   },
   {
     "ID":"Lo_T2164",
-    "P_Date_est_C1_2627":"4\/27\/2026",
+    "P_Date_est_C1_2627":"4\/22\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Houaphan",
     "X":103.903959,
@@ -10027,8 +10144,8 @@
   },
   {
     "ID":"Lo_T2165",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xiengkhouang",
     "X":103.849507,
     "Y":19.916661,
@@ -10045,8 +10162,8 @@
   },
   {
     "ID":"Lo_T2167",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.625263,
     "Y":19.923109,
@@ -10099,7 +10216,7 @@
   },
   {
     "ID":"Lo_T2172",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.636742,
@@ -10135,8 +10252,8 @@
   },
   {
     "ID":"Lo_T2176",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.664096,
     "Y":19.960914,
@@ -10171,8 +10288,8 @@
   },
   {
     "ID":"Lo_T218",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/24\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Champasack",
     "X":105.98243,
     "Y":15.351136,
@@ -10234,7 +10351,7 @@
   },
   {
     "ID":"Lo_T2187",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.653132,
@@ -10242,8 +10359,17 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2188",
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Louangphabang",
+    "X":102.515277,
+    "Y":19.988838,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2189",
-    "P_Date_est_C1_2627":"4\/23\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.38361,
@@ -10293,6 +10419,15 @@
     "Province":"Oudomxai",
     "X":101.415218,
     "Y":19.995658,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2194",
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Oudomxai",
+    "X":101.386261,
+    "Y":19.998979,
     "remark":"Corn"
   },
   {
@@ -10459,8 +10594,8 @@
   },
   {
     "ID":"Lo_T2210",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.394765,
     "Y":20.026317,
@@ -10473,6 +10608,15 @@
     "Province":"Xiengkhouang",
     "X":103.757779,
     "Y":20.027282,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2212",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Oudomxai",
+    "X":101.411803,
+    "Y":20.028162,
     "remark":"Corn"
   },
   {
@@ -10558,8 +10702,8 @@
   },
   {
     "ID":"Lo_T2224",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.406146,
     "Y":20.046491,
@@ -10567,8 +10711,8 @@
   },
   {
     "ID":"Lo_T2225",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.397733,
     "Y":20.047112,
@@ -10576,8 +10720,8 @@
   },
   {
     "ID":"Lo_T2226",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.330231,
     "Y":20.050988,
@@ -10585,7 +10729,7 @@
   },
   {
     "ID":"Lo_T2227",
-    "P_Date_est_C1_2627":"4\/18\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.352937,
@@ -10666,8 +10810,8 @@
   },
   {
     "ID":"Lo_T2236",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.602495,
     "Y":20.239261,
@@ -10708,15 +10852,6 @@
     "X":105.924873,
     "Y":15.358331,
     "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T2240",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Oudomxai",
-    "X":101.594058,
-    "Y":20.240475,
-    "remark":"Corn"
   },
   {
     "ID":"Lo_T2241",
@@ -10783,7 +10918,7 @@
   },
   {
     "ID":"Lo_T2248",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.636456,
@@ -10882,7 +11017,7 @@
   },
   {
     "ID":"Lo_T2258",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.662911,
@@ -10909,7 +11044,7 @@
   },
   {
     "ID":"Lo_T2260",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"4\/17\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Houaphan",
     "X":104.261349,
@@ -11026,7 +11161,7 @@
   },
   {
     "ID":"Lo_T2272",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.691076,
@@ -11035,8 +11170,8 @@
   },
   {
     "ID":"Lo_T2273",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/22\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Houaphan",
     "X":103.994831,
     "Y":20.334925,
@@ -11044,7 +11179,7 @@
   },
   {
     "ID":"Lo_T2274",
-    "P_Date_est_C1_2627":"5\/5\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.679744,
@@ -11053,8 +11188,8 @@
   },
   {
     "ID":"Lo_T2275",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/22\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Houaphan",
     "X":104.237601,
     "Y":20.336194,
@@ -11098,7 +11233,7 @@
   },
   {
     "ID":"Lo_T228",
-    "P_Date_est_C1_2627":"4\/24\/2026",
+    "P_Date_est_C1_2627":"4\/29\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Champasack",
     "X":105.953652,
@@ -11107,8 +11242,8 @@
   },
   {
     "ID":"Lo_T2280",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Houaphan",
     "X":103.922442,
     "Y":20.344237,
@@ -11116,8 +11251,8 @@
   },
   {
     "ID":"Lo_T2282",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Houaphan",
     "X":103.967753,
     "Y":20.34637,
@@ -11133,6 +11268,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2284",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Houaphan",
+    "X":103.887107,
+    "Y":20.348271,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2285",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -11143,7 +11287,7 @@
   },
   {
     "ID":"Lo_T2286",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.727705,
@@ -11170,7 +11314,7 @@
   },
   {
     "ID":"Lo_T2289",
-    "P_Date_est_C1_2627":"5\/5\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.710662,
@@ -11215,8 +11359,8 @@
   },
   {
     "ID":"Lo_T2293",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.684171,
     "Y":20.3717,
@@ -11251,7 +11395,7 @@
   },
   {
     "ID":"Lo_T2297",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.676247,
@@ -11260,8 +11404,8 @@
   },
   {
     "ID":"Lo_T2299",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.682115,
     "Y":20.382735,
@@ -11296,8 +11440,8 @@
   },
   {
     "ID":"Lo_T2302",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.65693,
     "Y":20.389448,
@@ -11323,8 +11467,8 @@
   },
   {
     "ID":"Lo_T2305",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.70766,
     "Y":20.394148,
@@ -11341,7 +11485,7 @@
   },
   {
     "ID":"Lo_T2307",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.770869,
@@ -11350,8 +11494,8 @@
   },
   {
     "ID":"Lo_T2308",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.689345,
     "Y":20.407308,
@@ -11386,7 +11530,7 @@
   },
   {
     "ID":"Lo_T2311",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.670213,
@@ -11395,7 +11539,7 @@
   },
   {
     "ID":"Lo_T2312",
-    "P_Date_est_C1_2627":"5\/5\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.75782,
@@ -11404,8 +11548,8 @@
   },
   {
     "ID":"Lo_T2313",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.7659,
     "Y":20.410218,
@@ -11422,8 +11566,8 @@
   },
   {
     "ID":"Lo_T2315",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.665484,
     "Y":20.413898,
@@ -11449,8 +11593,8 @@
   },
   {
     "ID":"Lo_T2318",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.63809,
     "Y":20.422821,
@@ -11475,9 +11619,18 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T2320",
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Oudomxai",
+    "X":101.685475,
+    "Y":20.429089,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2321",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.918374,
     "Y":20.430733,
@@ -11485,8 +11638,8 @@
   },
   {
     "ID":"Lo_T2322",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.648708,
     "Y":20.431684,
@@ -11521,8 +11674,8 @@
   },
   {
     "ID":"Lo_T2326",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.930723,
     "Y":20.442618,
@@ -11548,8 +11701,8 @@
   },
   {
     "ID":"Lo_T2329",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.680445,
     "Y":20.463421,
@@ -11583,6 +11736,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2332",
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Oudomxai",
+    "X":101.718159,
+    "Y":20.472492,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2333",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -11601,9 +11763,18 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2336",
-    "P_Date_est_C1_2627":"5\/5\/2026",
+    "ID":"Lo_T2335",
+    "P_Date_est_C1_2627":"5\/20\/2026",
     "remark_C1_2627":"logic1",
+    "Province":"Oudomxai",
+    "X":101.766779,
+    "Y":20.486918,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2336",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Oudomxai",
     "X":101.775415,
     "Y":20.487758,
@@ -11629,8 +11800,8 @@
   },
   {
     "ID":"Lo_T2339",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.771071,
     "Y":20.509274,
@@ -11683,8 +11854,8 @@
   },
   {
     "ID":"Lo_T2344",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.629233,
     "Y":20.543983,
@@ -11692,8 +11863,8 @@
   },
   {
     "ID":"Lo_T2345",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.63191,
     "Y":20.548587,
@@ -11728,7 +11899,7 @@
   },
   {
     "ID":"Lo_T2349",
-    "P_Date_est_C1_2627":"5\/5\/2026",
+    "P_Date_est_C1_2627":"5\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.767457,
@@ -11746,8 +11917,8 @@
   },
   {
     "ID":"Lo_T2350",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.720486,
     "Y":20.556665,
@@ -11836,8 +12007,8 @@
   },
   {
     "ID":"Lo_T2363",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.837498,
     "Y":20.628916,
@@ -11850,15 +12021,6 @@
     "Province":"Oudomxai",
     "X":101.759445,
     "Y":20.633022,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2365",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Oudomxai",
-    "X":101.829633,
-    "Y":20.633739,
     "remark":"Corn"
   },
   {
@@ -11899,8 +12061,8 @@
   },
   {
     "ID":"Lo_T2370",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.860213,
     "Y":20.646016,
@@ -11962,8 +12124,8 @@
   },
   {
     "ID":"Lo_T2377",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.94013,
     "Y":20.667278,
@@ -11980,8 +12142,8 @@
   },
   {
     "ID":"Lo_T2379",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Oudomxai",
     "X":101.867544,
     "Y":20.669169,
@@ -11989,8 +12151,8 @@
   },
   {
     "ID":"Lo_T238",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/19\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Champasack",
     "X":106.00962,
     "Y":15.360479,
@@ -12178,8 +12340,8 @@
   },
   {
     "ID":"Lo_T2399",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/28\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.055993,
     "Y":20.97712,
@@ -12241,8 +12403,8 @@
   },
   {
     "ID":"Lo_T2404",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/3\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.072136,
     "Y":20.990469,
@@ -12250,8 +12412,8 @@
   },
   {
     "ID":"Lo_T2405",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/28\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":100.859004,
     "Y":20.991635,
@@ -12322,7 +12484,7 @@
   },
   {
     "ID":"Lo_T2412",
-    "P_Date_est_C1_2627":"4\/13\/2026",
+    "P_Date_est_C1_2627":"5\/3\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.070206,
@@ -12340,8 +12502,8 @@
   },
   {
     "ID":"Lo_T2414",
-    "P_Date_est_C1_2627":"5\/13\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangnamtha",
     "X":101.02073,
     "Y":21.003042,
@@ -12358,8 +12520,8 @@
   },
   {
     "ID":"Lo_T2416",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangphabang",
     "X":102.892208,
     "Y":21.00499,
@@ -12430,7 +12592,7 @@
   },
   {
     "ID":"Lo_T2423",
-    "P_Date_est_C1_2627":"4\/13\/2026",
+    "P_Date_est_C1_2627":"5\/3\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":100.865762,
@@ -12475,8 +12637,8 @@
   },
   {
     "ID":"Lo_T2428",
-    "P_Date_est_C1_2627":"4\/28\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangnamtha",
     "X":100.980639,
     "Y":21.018659,
@@ -12484,7 +12646,7 @@
   },
   {
     "ID":"Lo_T2429",
-    "P_Date_est_C1_2627":"4\/18\/2026",
+    "P_Date_est_C1_2627":"4\/28\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":100.871615,
@@ -12628,8 +12790,8 @@
   },
   {
     "ID":"Lo_T2444",
-    "P_Date_est_C1_2627":"4\/23\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangnamtha",
     "X":101.025631,
     "Y":21.047953,
@@ -12691,7 +12853,7 @@
   },
   {
     "ID":"Lo_T2450",
-    "P_Date_est_C1_2627":"4\/28\/2026",
+    "P_Date_est_C1_2627":"5\/3\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.051591,
@@ -12700,7 +12862,7 @@
   },
   {
     "ID":"Lo_T2451",
-    "P_Date_est_C1_2627":"4\/13\/2026",
+    "P_Date_est_C1_2627":"4\/18\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.034007,
@@ -12709,7 +12871,7 @@
   },
   {
     "ID":"Lo_T2452",
-    "P_Date_est_C1_2627":"4\/28\/2026",
+    "P_Date_est_C1_2627":"4\/23\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.064726,
@@ -12727,7 +12889,7 @@
   },
   {
     "ID":"Lo_T2454",
-    "P_Date_est_C1_2627":"4\/18\/2026",
+    "P_Date_est_C1_2627":"4\/23\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.048912,
@@ -12754,8 +12916,8 @@
   },
   {
     "ID":"Lo_T2457",
-    "P_Date_est_C1_2627":"4\/23\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Louangnamtha",
     "X":101.079383,
     "Y":21.077272,
@@ -12772,8 +12934,8 @@
   },
   {
     "ID":"Lo_T2459",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/18\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.03315,
     "Y":21.083283,
@@ -12790,7 +12952,7 @@
   },
   {
     "ID":"Lo_T2460",
-    "P_Date_est_C1_2627":"5\/13\/2026",
+    "P_Date_est_C1_2627":"5\/18\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.046418,
@@ -12808,8 +12970,8 @@
   },
   {
     "ID":"Lo_T2462",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/18\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.047541,
     "Y":21.091621,
@@ -12826,7 +12988,7 @@
   },
   {
     "ID":"Lo_T2464",
-    "P_Date_est_C1_2627":"5\/3\/2026",
+    "P_Date_est_C1_2627":"5\/8\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.091543,
@@ -12844,7 +13006,7 @@
   },
   {
     "ID":"Lo_T2466",
-    "P_Date_est_C1_2627":"4\/18\/2026",
+    "P_Date_est_C1_2627":"5\/8\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Louangnamtha",
     "X":101.115689,
@@ -12889,7 +13051,7 @@
   },
   {
     "ID":"Lo_T2471",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.141288,
@@ -12907,8 +13069,8 @@
   },
   {
     "ID":"Lo_T2473",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.682902,
     "Y":21.175256,
@@ -12925,8 +13087,8 @@
   },
   {
     "ID":"Lo_T2475",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.304363,
     "Y":21.207756,
@@ -12988,8 +13150,8 @@
   },
   {
     "ID":"Lo_T2481",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.33463,
     "Y":21.240117,
@@ -13006,7 +13168,7 @@
   },
   {
     "ID":"Lo_T2483",
-    "P_Date_est_C1_2627":"4\/10\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.136876,
@@ -13015,8 +13177,8 @@
   },
   {
     "ID":"Lo_T2484",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.258678,
     "Y":21.250587,
@@ -13078,8 +13240,8 @@
   },
   {
     "ID":"Lo_T2490",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.193555,
     "Y":21.271166,
@@ -13105,8 +13267,8 @@
   },
   {
     "ID":"Lo_T2494",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.678768,
     "Y":21.287286,
@@ -13177,11 +13339,20 @@
   },
   {
     "ID":"Lo_T2500",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.689119,
     "Y":21.301491,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2501",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":102.147834,
+    "Y":21.30361,
     "remark":"Corn"
   },
   {
@@ -13249,8 +13420,8 @@
   },
   {
     "ID":"Lo_T2509",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.165002,
     "Y":21.328344,
@@ -13285,7 +13456,7 @@
   },
   {
     "ID":"Lo_T2512",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.113819,
@@ -13303,8 +13474,8 @@
   },
   {
     "ID":"Lo_T2514",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.151046,
     "Y":21.33998,
@@ -13339,8 +13510,8 @@
   },
   {
     "ID":"Lo_T2518",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.247971,
     "Y":21.349585,
@@ -13429,8 +13600,8 @@
   },
   {
     "ID":"Lo_T2527",
-    "P_Date_est_C1_2627":"4\/10\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.775573,
     "Y":21.368106,
@@ -13438,7 +13609,7 @@
   },
   {
     "ID":"Lo_T2528",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.988397,
@@ -13447,8 +13618,8 @@
   },
   {
     "ID":"Lo_T2529",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.682195,
     "Y":21.375731,
@@ -13573,7 +13744,7 @@
   },
   {
     "ID":"Lo_T2541",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"5\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.134278,
@@ -13591,29 +13762,29 @@
   },
   {
     "ID":"Lo_T2543",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.977585,
     "Y":21.391887,
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2544",
-    "P_Date_est_C1_2627":"4\/25\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Phongsaly",
-    "X":102.067186,
-    "Y":21.392939,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2545",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.686692,
     "Y":21.393719,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2546",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":102.15047,
+    "Y":21.393993,
     "remark":"Corn"
   },
   {
@@ -13623,15 +13794,6 @@
     "Province":"Phongsaly",
     "X":101.980802,
     "Y":21.395275,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2548",
-    "P_Date_est_C1_2627":"4\/25\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Phongsaly",
-    "X":102.073185,
-    "Y":21.395575,
     "remark":"Corn"
   },
   {
@@ -13680,15 +13842,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2553",
-    "P_Date_est_C1_2627":"4\/25\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Phongsaly",
-    "X":102.234364,
-    "Y":21.402888,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2554",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -13699,8 +13852,8 @@
   },
   {
     "ID":"Lo_T2555",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.113026,
     "Y":21.408601,
@@ -13717,8 +13870,8 @@
   },
   {
     "ID":"Lo_T2558",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.856713,
     "Y":21.412672,
@@ -13735,7 +13888,7 @@
   },
   {
     "ID":"Lo_T256",
-    "P_Date_est_C1_2627":"5\/4\/2026",
+    "P_Date_est_C1_2627":"4\/29\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Champasack",
     "X":106.326818,
@@ -13771,7 +13924,7 @@
   },
   {
     "ID":"Lo_T2564",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.848404,
@@ -13897,8 +14050,8 @@
   },
   {
     "ID":"Lo_T2582",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.849196,
     "Y":21.431632,
@@ -13915,7 +14068,7 @@
   },
   {
     "ID":"Lo_T2585",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.813075,
@@ -13986,9 +14139,27 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2594",
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.778531,
+    "Y":21.441352,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2595",
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.769151,
+    "Y":21.443091,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2596",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.840145,
     "Y":21.444792,
@@ -14014,7 +14185,7 @@
   },
   {
     "ID":"Lo_T2599",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"5\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.833481,
@@ -14140,8 +14311,8 @@
   },
   {
     "ID":"Lo_T2611",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.439204,
     "Y":21.456338,
@@ -14212,8 +14383,8 @@
   },
   {
     "ID":"Lo_T2619",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.749915,
     "Y":21.469573,
@@ -14266,8 +14437,8 @@
   },
   {
     "ID":"Lo_T2624",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.7664,
     "Y":21.477206,
@@ -14275,7 +14446,7 @@
   },
   {
     "ID":"Lo_T2625",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.807679,
@@ -14311,8 +14482,8 @@
   },
   {
     "ID":"Lo_T2629",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.757834,
     "Y":21.481204,
@@ -14347,7 +14518,7 @@
   },
   {
     "ID":"Lo_T2632",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.465235,
@@ -14374,8 +14545,8 @@
   },
   {
     "ID":"Lo_T2635",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.458508,
     "Y":21.493277,
@@ -14715,12 +14886,30 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2672",
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.876202,
+    "Y":21.5458,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2674",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.909375,
     "Y":21.548443,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2675",
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.843601,
+    "Y":21.54983,
     "remark":"Corn"
   },
   {
@@ -14770,8 +14959,8 @@
   },
   {
     "ID":"Lo_T2680",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.861954,
     "Y":21.552924,
@@ -14838,6 +15027,15 @@
     "Province":"Phongsaly",
     "X":101.855829,
     "Y":21.56012,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2689",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.927649,
+    "Y":21.560935,
     "remark":"Corn"
   },
   {
@@ -14949,6 +15147,15 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T2700",
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.894033,
+    "Y":21.572955,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2701",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -14976,6 +15183,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2704",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.866065,
+    "Y":21.576424,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2705",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -15000,6 +15216,15 @@
     "Province":"Phongsaly",
     "X":101.86932,
     "Y":21.582077,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2708",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.858127,
+    "Y":21.582263,
     "remark":"Corn"
   },
   {
@@ -15040,8 +15265,8 @@
   },
   {
     "ID":"Lo_T2712",
-    "P_Date_est_C1_2627":"4\/20\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.873819,
     "Y":21.58951,
@@ -15054,6 +15279,15 @@
     "Province":"Phongsaly",
     "X":102.371064,
     "Y":21.590278,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2714",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.878229,
+    "Y":21.591115,
     "remark":"Corn"
   },
   {
@@ -15165,6 +15399,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2727",
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.859204,
+    "Y":21.609269,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2728",
     "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
@@ -15201,6 +15444,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2731",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.880615,
+    "Y":21.613514,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2733",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -15220,11 +15472,20 @@
   },
   {
     "ID":"Lo_T2735",
-    "P_Date_est_C1_2627":"5\/5\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.854797,
     "Y":21.616835,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2737",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.924318,
+    "Y":21.619798,
     "remark":"Corn"
   },
   {
@@ -15255,6 +15516,15 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T2740",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.865044,
+    "Y":21.622803,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2742",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -15265,11 +15535,20 @@
   },
   {
     "ID":"Lo_T2743",
-    "P_Date_est_C1_2627":"5\/5\/2026",
+    "P_Date_est_C1_2627":"5\/10\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.874619,
     "Y":21.62623,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2744",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.881015,
+    "Y":21.626572,
     "remark":"Corn"
   },
   {
@@ -15283,7 +15562,7 @@
   },
   {
     "ID":"Lo_T2747",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.882875,
@@ -15319,7 +15598,7 @@
   },
   {
     "ID":"Lo_T2750",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.87113,
@@ -15328,7 +15607,7 @@
   },
   {
     "ID":"Lo_T2751",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.84961,
@@ -15346,8 +15625,8 @@
   },
   {
     "ID":"Lo_T2754",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.894501,
     "Y":21.63516,
@@ -15355,7 +15634,7 @@
   },
   {
     "ID":"Lo_T2755",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.019025,
@@ -15391,7 +15670,7 @@
   },
   {
     "ID":"Lo_T2759",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.864895,
@@ -15409,7 +15688,7 @@
   },
   {
     "ID":"Lo_T2760",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.859299,
@@ -15427,8 +15706,8 @@
   },
   {
     "ID":"Lo_T2762",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.892674,
     "Y":21.642622,
@@ -15441,6 +15720,24 @@
     "Province":"Phongsaly",
     "X":102.406383,
     "Y":21.645273,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2764",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Phongsaly",
+    "X":101.853902,
+    "Y":21.646702,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2765",
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.874223,
+    "Y":21.646788,
     "remark":"Corn"
   },
   {
@@ -15471,9 +15768,27 @@
     "remark":"Cassava"
   },
   {
-    "ID":"Lo_T2772",
+    "ID":"Lo_T2770",
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.867408,
+    "Y":21.651671,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2771",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
+    "Province":"Phongsaly",
+    "X":101.857595,
+    "Y":21.652042,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2772",
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.407087,
     "Y":21.654315,
@@ -15508,7 +15823,7 @@
   },
   {
     "ID":"Lo_T2776",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.034039,
@@ -15517,8 +15832,8 @@
   },
   {
     "ID":"Lo_T2777",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.026865,
     "Y":21.659649,
@@ -15562,8 +15877,8 @@
   },
   {
     "ID":"Lo_T2781",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.002023,
     "Y":21.664735,
@@ -15571,8 +15886,8 @@
   },
   {
     "ID":"Lo_T2782",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.007972,
     "Y":21.669524,
@@ -15706,8 +16021,8 @@
   },
   {
     "ID":"Lo_T2796",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.335427,
     "Y":21.726479,
@@ -15724,8 +16039,8 @@
   },
   {
     "ID":"Lo_T2798",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.193541,
     "Y":21.809694,
@@ -15760,7 +16075,7 @@
   },
   {
     "ID":"Lo_T2801",
-    "P_Date_est_C1_2627":"5\/8\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.82354,
@@ -15769,7 +16084,7 @@
   },
   {
     "ID":"Lo_T2802",
-    "P_Date_est_C1_2627":"5\/18\/2026",
+    "P_Date_est_C1_2627":"5\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.815995,
@@ -15804,15 +16119,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2806",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.798848,
-    "Y":21.827086,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2807",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -15823,8 +16129,8 @@
   },
   {
     "ID":"Lo_T2808",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.1761,
     "Y":21.830419,
@@ -15832,8 +16138,8 @@
   },
   {
     "ID":"Lo_T2809",
-    "P_Date_est_C1_2627":"5\/3\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.82349,
     "Y":21.831183,
@@ -15841,7 +16147,7 @@
   },
   {
     "ID":"Lo_T2810",
-    "P_Date_est_C1_2627":"4\/18\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.834872,
@@ -15976,7 +16282,7 @@
   },
   {
     "ID":"Lo_T2825",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.995354,
@@ -16012,8 +16318,8 @@
   },
   {
     "ID":"Lo_T2829",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.829729,
     "Y":21.8497,
@@ -16027,6 +16333,15 @@
     "X":106.018403,
     "Y":15.379915,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T2830",
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":102.070967,
+    "Y":21.852095,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T2831",
@@ -16048,8 +16363,8 @@
   },
   {
     "ID":"Lo_T2833",
-    "P_Date_est_C1_2627":"5\/13\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.833861,
     "Y":21.854832,
@@ -16066,8 +16381,8 @@
   },
   {
     "ID":"Lo_T2835",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.082674,
     "Y":21.856306,
@@ -16129,8 +16444,8 @@
   },
   {
     "ID":"Lo_T2841",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.084982,
     "Y":21.859947,
@@ -16165,8 +16480,8 @@
   },
   {
     "ID":"Lo_T2845",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.082293,
     "Y":21.865705,
@@ -16219,7 +16534,7 @@
   },
   {
     "ID":"Lo_T2850",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"5\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.088147,
@@ -16228,8 +16543,8 @@
   },
   {
     "ID":"Lo_T2851",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.85926,
     "Y":21.868997,
@@ -16246,8 +16561,8 @@
   },
   {
     "ID":"Lo_T2853",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.17629,
     "Y":21.870346,
@@ -16264,7 +16579,7 @@
   },
   {
     "ID":"Lo_T2855",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"5\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.094547,
@@ -16282,8 +16597,8 @@
   },
   {
     "ID":"Lo_T2857",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.992803,
     "Y":21.873086,
@@ -16408,7 +16723,7 @@
   },
   {
     "ID":"Lo_T287",
-    "P_Date_est_C1_2627":"4\/29\/2026",
+    "P_Date_est_C1_2627":"4\/24\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Champasack",
     "X":106.31338,
@@ -16417,7 +16732,7 @@
   },
   {
     "ID":"Lo_T2870",
-    "P_Date_est_C1_2627":"4\/13\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.85355,
@@ -16489,8 +16804,8 @@
   },
   {
     "ID":"Lo_T2878",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.097904,
     "Y":21.895584,
@@ -16516,8 +16831,8 @@
   },
   {
     "ID":"Lo_T2880",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.057504,
     "Y":21.901826,
@@ -16525,8 +16840,8 @@
   },
   {
     "ID":"Lo_T2881",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.066546,
     "Y":21.903102,
@@ -16534,8 +16849,8 @@
   },
   {
     "ID":"Lo_T2882",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/20\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.173236,
     "Y":21.903106,
@@ -16660,8 +16975,8 @@
   },
   {
     "ID":"Lo_T2895",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":102.108014,
     "Y":21.915198,
@@ -16683,6 +16998,15 @@
     "Province":"Phongsaly",
     "X":102.062186,
     "Y":21.91616,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2898",
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Phongsaly",
+    "X":101.876014,
+    "Y":21.916294,
     "remark":"Corn"
   },
   {
@@ -16723,7 +17047,7 @@
   },
   {
     "ID":"Lo_T2901",
-    "P_Date_est_C1_2627":"4\/13\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.873611,
@@ -16939,7 +17263,7 @@
   },
   {
     "ID":"Lo_T2923",
-    "P_Date_est_C1_2627":"4\/20\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.907842,
@@ -16948,7 +17272,7 @@
   },
   {
     "ID":"Lo_T2924",
-    "P_Date_est_C1_2627":"5\/3\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.916579,
@@ -16966,7 +17290,7 @@
   },
   {
     "ID":"Lo_T2926",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.921852,
@@ -17047,7 +17371,7 @@
   },
   {
     "ID":"Lo_T2935",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.94431,
@@ -17065,7 +17389,7 @@
   },
   {
     "ID":"Lo_T2937",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.945119,
@@ -17137,7 +17461,7 @@
   },
   {
     "ID":"Lo_T2945",
-    "P_Date_est_C1_2627":"4\/28\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.906065,
@@ -17209,8 +17533,8 @@
   },
   {
     "ID":"Lo_T2954",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.980668,
     "Y":22.16492,
@@ -17245,8 +17569,8 @@
   },
   {
     "ID":"Lo_T2958",
-    "P_Date_est_C1_2627":"5\/5\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.923021,
     "Y":22.174942,
@@ -17362,8 +17686,8 @@
   },
   {
     "ID":"Lo_T2970",
-    "P_Date_est_C1_2627":"4\/23\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.859987,
     "Y":22.199613,
@@ -17398,7 +17722,7 @@
   },
   {
     "ID":"Lo_T2974",
-    "P_Date_est_C1_2627":"4\/15\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.842606,
@@ -17533,7 +17857,7 @@
   },
   {
     "ID":"Lo_T2988",
-    "P_Date_est_C1_2627":"5\/18\/2026",
+    "P_Date_est_C1_2627":"5\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.826961,
@@ -17557,15 +17881,6 @@
     "X":106.068765,
     "Y":15.387109,
     "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T2990",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.787462,
-    "Y":22.277445,
-    "remark":"Corn"
   },
   {
     "ID":"Lo_T2991",
@@ -17623,7 +17938,7 @@
   },
   {
     "ID":"Lo_T2997",
-    "P_Date_est_C1_2627":"4\/10\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.800961,
@@ -17821,7 +18136,7 @@
   },
   {
     "ID":"Lo_T3016",
-    "P_Date_est_C1_2627":"4\/13\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.836239,
@@ -17830,8 +18145,8 @@
   },
   {
     "ID":"Lo_T3017",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.848303,
     "Y":22.342787,
@@ -17839,8 +18154,8 @@
   },
   {
     "ID":"Lo_T3018",
-    "P_Date_est_C1_2627":"4\/18\/2026",
-    "remark_C1_2627":"logic1",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.861374,
     "Y":22.350845,
@@ -17848,7 +18163,7 @@
   },
   {
     "ID":"Lo_T3019",
-    "P_Date_est_C1_2627":"4\/23\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.877071,
@@ -17893,7 +18208,7 @@
   },
   {
     "ID":"Lo_T3023",
-    "P_Date_est_C1_2627":"5\/8\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.904946,
@@ -17902,7 +18217,7 @@
   },
   {
     "ID":"Lo_T3024",
-    "P_Date_est_C1_2627":"5\/18\/2026",
+    "P_Date_est_C1_2627":"5\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.801533,
@@ -17974,7 +18289,7 @@
   },
   {
     "ID":"Lo_T3031",
-    "P_Date_est_C1_2627":"4\/25\/2026",
+    "P_Date_est_C1_2627":"4\/30\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.956466,
@@ -18036,15 +18351,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T3038",
-    "P_Date_est_C1_2627":"4\/18\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Phongsaly",
-    "X":101.764998,
-    "Y":22.406836,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T3039",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -18073,8 +18379,8 @@
   },
   {
     "ID":"Lo_T3041",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.800804,
     "Y":22.408794,
@@ -18091,7 +18397,7 @@
   },
   {
     "ID":"Lo_T3043",
-    "P_Date_est_C1_2627":"4\/28\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.957069,
@@ -18127,7 +18433,7 @@
   },
   {
     "ID":"Lo_T3047",
-    "P_Date_est_C1_2627":"4\/18\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.756214,
@@ -18163,7 +18469,7 @@
   },
   {
     "ID":"Lo_T3050",
-    "P_Date_est_C1_2627":"4\/13\/2026",
+    "P_Date_est_C1_2627":"4\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.755874,
@@ -18217,7 +18523,7 @@
   },
   {
     "ID":"Lo_T3056",
-    "P_Date_est_C1_2627":"5\/8\/2026",
+    "P_Date_est_C1_2627":"5\/5\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.741741,
@@ -18289,7 +18595,7 @@
   },
   {
     "ID":"Lo_T3063",
-    "P_Date_est_C1_2627":"4\/18\/2026",
+    "P_Date_est_C1_2627":"4\/20\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Phongsaly",
     "X":101.731232,
@@ -18685,7 +18991,7 @@
   },
   {
     "ID":"Lo_T346",
-    "P_Date_est_C1_2627":"5\/4\/2026",
+    "P_Date_est_C1_2627":"4\/29\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.291797,
@@ -18694,7 +19000,7 @@
   },
   {
     "ID":"Lo_T347",
-    "P_Date_est_C1_2627":"4\/29\/2026",
+    "P_Date_est_C1_2627":"4\/24\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.298991,
@@ -18721,7 +19027,7 @@
   },
   {
     "ID":"Lo_T35",
-    "P_Date_est_C1_2627":"4\/29\/2026",
+    "P_Date_est_C1_2627":"5\/4\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Attapeu",
     "X":106.183878,
@@ -18910,7 +19216,7 @@
   },
   {
     "ID":"Lo_T373",
-    "P_Date_est_C1_2627":"5\/4\/2026",
+    "P_Date_est_C1_2627":"5\/19\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Champasack",
     "X":106.06157,
@@ -19008,15 +19314,6 @@
     "remark":"Cassava"
   },
   {
-    "ID":"Lo_T392",
-    "P_Date_est_C1_2627":"5\/9\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Salavan",
-    "X":106.212656,
-    "Y":15.430277,
-    "remark":"Cassava"
-  },
-  {
     "ID":"Lo_T393",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -19108,7 +19405,7 @@
   },
   {
     "ID":"Lo_T407",
-    "P_Date_est_C1_2627":"5\/9\/2026",
+    "P_Date_est_C1_2627":"5\/19\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.119127,
@@ -19189,8 +19486,8 @@
   },
   {
     "ID":"Lo_T418",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/14\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Sekong",
     "X":106.493374,
     "Y":15.442855,
@@ -19936,7 +20233,7 @@
   },
   {
     "ID":"Lo_T533",
-    "P_Date_est_C1_2627":"5\/9\/2026",
+    "P_Date_est_C1_2627":"4\/29\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.183878,
@@ -19999,7 +20296,7 @@
   },
   {
     "ID":"Lo_T540",
-    "P_Date_est_C1_2627":"4\/29\/2026",
+    "P_Date_est_C1_2627":"4\/24\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Sekong",
     "X":106.370937,
@@ -20008,7 +20305,7 @@
   },
   {
     "ID":"Lo_T541",
-    "P_Date_est_C1_2627":"4\/29\/2026",
+    "P_Date_est_C1_2627":"4\/24\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Sekong",
     "X":106.471661,
@@ -20070,15 +20367,6 @@
     "remark":"Cassava"
   },
   {
-    "ID":"Lo_T555",
-    "P_Date_est_C1_2627":"5\/9\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Salavan",
-    "X":106.176684,
-    "Y":15.502222,
-    "remark":"Cassava"
-  },
-  {
     "ID":"Lo_T557",
     "P_Date_est_C1_2627":"5\/4\/2026",
     "remark_C1_2627":"logic1",
@@ -20089,7 +20377,7 @@
   },
   {
     "ID":"Lo_T559",
-    "P_Date_est_C1_2627":"4\/29\/2026",
+    "P_Date_est_C1_2627":"4\/24\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.306186,
@@ -20134,7 +20422,7 @@
   },
   {
     "ID":"Lo_T568",
-    "P_Date_est_C1_2627":"5\/4\/2026",
+    "P_Date_est_C1_2627":"4\/29\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.133516,
@@ -20152,7 +20440,7 @@
   },
   {
     "ID":"Lo_T570",
-    "P_Date_est_C1_2627":"5\/4\/2026",
+    "P_Date_est_C1_2627":"4\/29\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.162294,
@@ -20197,7 +20485,7 @@
   },
   {
     "ID":"Lo_T576",
-    "P_Date_est_C1_2627":"5\/4\/2026",
+    "P_Date_est_C1_2627":"5\/9\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.298991,
@@ -20466,6 +20754,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T623",
+    "P_Date_est_C1_2627":"5\/9\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Salavan",
+    "X":106.280321,
+    "Y":15.536109,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T624",
     "P_Date_est_C1_2627":"5\/24\/2026",
     "remark_C1_2627":"logic1",
@@ -20512,7 +20809,7 @@
   },
   {
     "ID":"Lo_T634",
-    "P_Date_est_C1_2627":"4\/29\/2026",
+    "P_Date_est_C1_2627":"4\/24\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.356548,
@@ -20764,7 +21061,7 @@
   },
   {
     "ID":"Lo_T69",
-    "P_Date_est_C1_2627":"4\/19\/2026",
+    "P_Date_est_C1_2627":"4\/24\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Champasack",
     "X":106.169489,
@@ -21079,7 +21376,7 @@
   },
   {
     "ID":"Lo_T741",
-    "P_Date_est_C1_2627":"5\/9\/2026",
+    "P_Date_est_C1_2627":"5\/14\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.090349,
@@ -21169,7 +21466,7 @@
   },
   {
     "ID":"Lo_T753",
-    "P_Date_est_C1_2627":"4\/24\/2026",
+    "P_Date_est_C1_2627":"5\/19\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.32777,
@@ -21250,7 +21547,7 @@
   },
   {
     "ID":"Lo_T763",
-    "P_Date_est_C1_2627":"5\/4\/2026",
+    "P_Date_est_C1_2627":"5\/9\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":106.004014,
@@ -21268,7 +21565,7 @@
   },
   {
     "ID":"Lo_T768",
-    "P_Date_est_C1_2627":"5\/9\/2026",
+    "P_Date_est_C1_2627":"5\/14\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Salavan",
     "X":105.960846,
@@ -22086,6 +22383,15 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T889",
+    "P_Date_est_C1_2627":"4\/25\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.277714,
+    "Y":17.77066,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T89",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -22095,9 +22401,18 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T890",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.29793,
+    "Y":17.777475,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T891",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.287118,
     "Y":17.779587,
@@ -22113,9 +22428,27 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T893",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.291409,
+    "Y":17.794514,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T894",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.280611,
+    "Y":17.796721,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T895",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.27295,
     "Y":17.80142,
@@ -22123,11 +22456,20 @@
   },
   {
     "ID":"Lo_T896",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.281409,
     "Y":17.80568,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T897",
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.295512,
+    "Y":17.808703,
     "remark":"Corn"
   },
   {
@@ -22150,11 +22492,20 @@
   },
   {
     "ID":"Lo_T900",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.287491,
     "Y":17.82595,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T901",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.281554,
+    "Y":17.831101,
     "remark":"Corn"
   },
   {
@@ -22164,6 +22515,15 @@
     "Province":"Xaignabouly",
     "X":101.277973,
     "Y":17.841047,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T903",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.292177,
+    "Y":17.865582,
     "remark":"Corn"
   },
   {
@@ -22177,8 +22537,8 @@
   },
   {
     "ID":"Lo_T906",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.278555,
     "Y":17.885331,
@@ -22212,6 +22572,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T910",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.248973,
+    "Y":17.906665,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T911",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -22240,8 +22609,8 @@
   },
   {
     "ID":"Lo_T914",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.250934,
     "Y":17.92256,
@@ -22284,9 +22653,18 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T919",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.297353,
+    "Y":17.938423,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T920",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.24488,
     "Y":17.941196,
@@ -22294,8 +22672,8 @@
   },
   {
     "ID":"Lo_T921",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.231403,
     "Y":17.947173,
@@ -22312,8 +22690,8 @@
   },
   {
     "ID":"Lo_T923",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.23462,
     "Y":17.955149,
@@ -22321,16 +22699,25 @@
   },
   {
     "ID":"Lo_T924",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.270465,
     "Y":17.956537,
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T926",
+    "P_Date_est_C1_2627":"5\/5\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.228262,
+    "Y":17.962192,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T927",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"5\/15\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.239055,
@@ -22339,8 +22726,8 @@
   },
   {
     "ID":"Lo_T928",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.277097,
     "Y":17.9701,
@@ -22357,8 +22744,8 @@
   },
   {
     "ID":"Lo_T930",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.261304,
     "Y":17.974859,
@@ -22393,11 +22780,20 @@
   },
   {
     "ID":"Lo_T935",
-    "P_Date_est_C1_2627":"4\/30\/2026",
+    "P_Date_est_C1_2627":"4\/25\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.249228,
     "Y":17.987083,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T936",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.228091,
+    "Y":17.987262,
     "remark":"Corn"
   },
   {
@@ -22407,6 +22803,15 @@
     "Province":"Xaignabouly",
     "X":101.330971,
     "Y":17.989814,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T938",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.234277,
+    "Y":17.990632,
     "remark":"Corn"
   },
   {
@@ -22492,8 +22897,8 @@
   },
   {
     "ID":"Lo_T947",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/30\/2026",
+    "remark_C1_2627":"logic1",
     "Province":"Xaignabouly",
     "X":101.266771,
     "Y":18.010029,
@@ -22533,15 +22938,6 @@
     "Province":"Xaignabouly",
     "X":101.265001,
     "Y":18.016463,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T952",
-    "P_Date_est_C1_2627":"4\/30\/2026",
-    "remark_C1_2627":"logic1",
-    "Province":"Xaignabouly",
-    "X":101.329429,
-    "Y":18.016997,
     "remark":"Corn"
   },
   {
@@ -22653,6 +23049,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T967",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.278383,
+    "Y":18.039877,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T969",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -22734,6 +23139,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T980",
+    "P_Date_est_C1_2627":"5\/15\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.326194,
+    "Y":18.055878,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T981",
     "P_Date_est_C1_2627":"4\/17\/2026",
     "remark_C1_2627":"logic1",
@@ -22741,6 +23155,15 @@
     "X":105.03994,
     "Y":18.056297,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T982",
+    "P_Date_est_C1_2627":"5\/10\/2026",
+    "remark_C1_2627":"logic1",
+    "Province":"Xaignabouly",
+    "X":101.331691,
+    "Y":18.057258,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T983",
@@ -22807,7 +23230,7 @@
   },
   {
     "ID":"Lo_T991",
-    "P_Date_est_C1_2627":"4\/22\/2026",
+    "P_Date_est_C1_2627":"5\/12\/2026",
     "remark_C1_2627":"logic1",
     "Province":"Bolikhamxai",
     "X":105.075913,
@@ -22866,6 +23289,15 @@
     "Province":"Xaignabouly",
     "X":101.272278,
     "Y":18.082831,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1002",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xaignabouly",
+    "X":101.263735,
+    "Y":18.083485,
     "remark":"Corn"
   },
   {
@@ -23004,6 +23436,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T1034",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xaignabouly",
+    "X":101.251765,
+    "Y":18.110106,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1035",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -23038,15 +23479,6 @@
     "X":101.266032,
     "Y":18.115025,
     "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1044",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Khammouan",
-    "X":104.584027,
-    "Y":18.117226,
-    "remark":"Cassava"
   },
   {
     "ID":"Lo_T1045",
@@ -23137,15 +23569,6 @@
     "X":101.260926,
     "Y":18.132639,
     "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1067",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Bolikhamxai",
-    "X":105.016361,
-    "Y":18.133911,
-    "remark":"Cassava"
   },
   {
     "ID":"Lo_T1069",
@@ -23247,15 +23670,6 @@
     "remark":"Cassava"
   },
   {
-    "ID":"Lo_T1109",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.315767,
-    "Y":18.207246,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1110",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -23272,51 +23686,6 @@
     "X":105.002465,
     "Y":18.219762,
     "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T1115",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.335792,
-    "Y":18.228014,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1118",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Bolikhamxai",
-    "X":105.008343,
-    "Y":18.23116,
-    "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T1120",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.313925,
-    "Y":18.236783,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1122",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.314305,
-    "Y":18.245482,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1124",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.323024,
-    "Y":18.25224,
-    "remark":"Corn"
   },
   {
     "ID":"Lo_T1127",
@@ -23388,15 +23757,6 @@
     "Province":"Vientiane",
     "X":102.108192,
     "Y":18.419562,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1165",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Vientiane",
-    "X":102.115781,
-    "Y":18.43033,
     "remark":"Corn"
   },
   {
@@ -23652,21 +24012,12 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1339",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.132739,
-    "Y":19.289611,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1347",
+    "ID":"Lo_T1369",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Louangphabang",
-    "X":102.544844,
-    "Y":19.360872,
+    "X":102.529578,
+    "Y":19.404195,
     "remark":"Corn"
   },
   {
@@ -23706,15 +24057,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1406",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Louangphabang",
-    "X":102.464404,
-    "Y":19.43684,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T141",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -23739,15 +24081,6 @@
     "Province":"Louangphabang",
     "X":102.566667,
     "Y":19.478574,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1469",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Louangphabang",
-    "X":102.429873,
-    "Y":19.491899,
     "remark":"Corn"
   },
   {
@@ -23823,21 +24156,12 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1554",
+    "ID":"Lo_T1538",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
-    "Province":"Louangphabang",
-    "X":102.583927,
-    "Y":19.546344,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1556",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Louangphabang",
-    "X":102.397076,
-    "Y":19.546897,
+    "Province":"Xiengkhouang",
+    "X":103.500433,
+    "Y":19.541263,
     "remark":"Corn"
   },
   {
@@ -23874,6 +24198,15 @@
     "Province":"Xiengkhouang",
     "X":103.695026,
     "Y":19.549491,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1579",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xiengkhouang",
+    "X":103.67704,
+    "Y":19.553988,
     "remark":"Corn"
   },
   {
@@ -23937,6 +24270,15 @@
     "Province":"Xiengkhouang",
     "X":103.590918,
     "Y":19.575416,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T1652",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xiengkhouang",
+    "X":103.639828,
+    "Y":19.577183,
     "remark":"Corn"
   },
   {
@@ -24030,15 +24372,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1721",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.618109,
-    "Y":19.602739,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T173",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24064,6 +24397,15 @@
     "X":105.890544,
     "Y":15.309783,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T1759",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xiengkhouang",
+    "X":103.715743,
+    "Y":19.610967,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T176",
@@ -24192,30 +24534,12 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1825",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.632889,
-    "Y":19.626681,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1830",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Xiengkhouang",
     "X":103.610276,
     "Y":19.627885,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1831",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.641597,
-    "Y":19.628389,
     "remark":"Corn"
   },
   {
@@ -24246,24 +24570,6 @@
     "remark":"Cassava"
   },
   {
-    "ID":"Lo_T1851",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.578114,
-    "Y":19.634927,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T1859",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.606387,
-    "Y":19.636443,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T1866",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24280,15 +24586,6 @@
     "X":105.8889,
     "Y":15.329553,
     "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T1890",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.641067,
-    "Y":19.648417,
-    "remark":"Corn"
   },
   {
     "ID":"Lo_T1910",
@@ -24336,6 +24633,15 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T1964",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xiengkhouang",
+    "X":103.531472,
+    "Y":19.682755,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T198",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24354,6 +24660,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T1984",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xiengkhouang",
+    "X":103.694495,
+    "Y":19.696421,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T1991",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24363,21 +24678,21 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T1998",
+    "ID":"Lo_T2001",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Xiengkhouang",
-    "X":103.644998,
-    "Y":19.714705,
+    "X":103.683145,
+    "Y":19.718502,
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2018",
+    "ID":"Lo_T2019",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Xiengkhouang",
-    "X":103.252848,
-    "Y":19.736135,
+    "X":103.690164,
+    "Y":19.737062,
     "remark":"Corn"
   },
   {
@@ -24417,6 +24732,15 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2039",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xiengkhouang",
+    "X":103.072685,
+    "Y":19.763021,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2041",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24441,15 +24765,6 @@
     "Province":"Xiengkhouang",
     "X":103.07179,
     "Y":19.785966,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2098",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.460308,
-    "Y":19.8147,
     "remark":"Corn"
   },
   {
@@ -24480,15 +24795,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2121",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xiengkhouang",
-    "X":103.658426,
-    "Y":19.83039,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2125",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24504,33 +24810,6 @@
     "Province":"Oudomxai",
     "X":101.392867,
     "Y":19.985372,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2188",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Louangphabang",
-    "X":102.515277,
-    "Y":19.988838,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2194",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Oudomxai",
-    "X":101.386261,
-    "Y":19.998979,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2212",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Oudomxai",
-    "X":101.411803,
-    "Y":20.028162,
     "remark":"Corn"
   },
   {
@@ -24570,21 +24849,21 @@
     "remark":"Corn"
   },
   {
+    "ID":"Lo_T2240",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Oudomxai",
+    "X":101.594058,
+    "Y":20.240475,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T2281",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Houaphan",
     "X":103.908594,
     "Y":20.345558,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2284",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Houaphan",
-    "X":103.887107,
-    "Y":20.348271,
     "remark":"Corn"
   },
   {
@@ -24604,33 +24883,6 @@
     "X":106.358335,
     "Y":14.718744,
     "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T2320",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Oudomxai",
-    "X":101.685475,
-    "Y":20.429089,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2332",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Oudomxai",
-    "X":101.718159,
-    "Y":20.472492,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2335",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Oudomxai",
-    "X":101.766779,
-    "Y":20.486918,
-    "remark":"Corn"
   },
   {
     "ID":"Lo_T2353",
@@ -24666,6 +24918,15 @@
     "Province":"Oudomxai",
     "X":101.776885,
     "Y":20.627458,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2365",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Oudomxai",
+    "X":101.829633,
+    "Y":20.633739,
     "remark":"Corn"
   },
   {
@@ -24705,21 +24966,30 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2501",
+    "ID":"Lo_T2544",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Phongsaly",
-    "X":102.147834,
-    "Y":21.30361,
+    "X":102.067186,
+    "Y":21.392939,
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2546",
+    "ID":"Lo_T2548",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Phongsaly",
-    "X":102.15047,
-    "Y":21.393993,
+    "X":102.073185,
+    "Y":21.395575,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T2553",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Phongsaly",
+    "X":102.234364,
+    "Y":21.402888,
     "remark":"Corn"
   },
   {
@@ -24822,24 +25092,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2594",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.778531,
-    "Y":21.441352,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2595",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.769151,
-    "Y":21.443091,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2607",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24876,30 +25128,12 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2672",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.876202,
-    "Y":21.5458,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2673",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.777871,
     "Y":21.548108,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2675",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.843601,
-    "Y":21.54983,
     "remark":"Corn"
   },
   {
@@ -24912,15 +25146,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2689",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.927649,
-    "Y":21.560935,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2693",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24930,66 +25155,12 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2700",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.894033,
-    "Y":21.572955,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2704",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.866065,
-    "Y":21.576424,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2708",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.858127,
-    "Y":21.582263,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2714",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.878229,
-    "Y":21.591115,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2726",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.865767,
     "Y":21.608755,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2727",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.859204,
-    "Y":21.609269,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2731",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.880615,
-    "Y":21.613514,
     "remark":"Corn"
   },
   {
@@ -25011,39 +25182,12 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2737",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.924318,
-    "Y":21.619798,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2740",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.865044,
-    "Y":21.622803,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2741",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.848296,
     "Y":21.62307,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2744",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.881015,
-    "Y":21.626572,
     "remark":"Corn"
   },
   {
@@ -25065,24 +25209,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2764",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.853902,
-    "Y":21.646702,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2765",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.874223,
-    "Y":21.646788,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T2766",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -25101,24 +25227,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T2770",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.867408,
-    "Y":21.651671,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2771",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.857595,
-    "Y":21.652042,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T28",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -25126,6 +25234,15 @@
     "X":106.147905,
     "Y":14.739597,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T2806",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Phongsaly",
+    "X":101.798848,
+    "Y":21.827086,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T281",
@@ -25143,24 +25260,6 @@
     "Province":"Phongsaly",
     "X":102.173197,
     "Y":21.846124,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2830",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":102.070967,
-    "Y":21.852095,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T2898",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Phongsaly",
-    "X":101.876014,
-    "Y":21.916294,
     "remark":"Corn"
   },
   {
@@ -25209,12 +25308,30 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T2990",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Phongsaly",
+    "X":101.787462,
+    "Y":22.277445,
+    "remark":"Corn"
+  },
+  {
     "ID":"Lo_T3014",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
     "Province":"Phongsaly",
     "X":101.836723,
     "Y":22.329049,
+    "remark":"Corn"
+  },
+  {
+    "ID":"Lo_T3038",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Phongsaly",
+    "X":101.764998,
+    "Y":22.406836,
     "remark":"Corn"
   },
   {
@@ -25412,6 +25529,15 @@
     "remark_C1_2627":null,
     "Province":"Salavan",
     "X":106.205462,
+    "Y":15.430277,
+    "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T392",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Salavan",
+    "X":106.212656,
     "Y":15.430277,
     "remark":"Cassava"
   },
@@ -25983,6 +26109,15 @@
     "remark":"Cassava"
   },
   {
+    "ID":"Lo_T555",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Salavan",
+    "X":106.176684,
+    "Y":15.502222,
+    "remark":"Cassava"
+  },
+  {
     "ID":"Lo_T556",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -26268,15 +26403,6 @@
     "Province":"Salavan",
     "X":106.284426,
     "Y":15.535979,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T623",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Salavan",
-    "X":106.280321,
-    "Y":15.536109,
     "remark":"Corn"
   },
   {
@@ -27297,51 +27423,6 @@
     "remark":"Cassava"
   },
   {
-    "ID":"Lo_T889",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.277714,
-    "Y":17.77066,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T890",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.29793,
-    "Y":17.777475,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T893",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.291409,
-    "Y":17.794514,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T894",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.280611,
-    "Y":17.796721,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T897",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.295512,
-    "Y":17.808703,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T9",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -27358,24 +27439,6 @@
     "X":105.975235,
     "Y":14.926656,
     "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T901",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.281554,
-    "Y":17.831101,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T903",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.292177,
-    "Y":17.865582,
-    "remark":"Corn"
   },
   {
     "ID":"Lo_T904",
@@ -27396,24 +27459,6 @@
     "remark":"Cassava"
   },
   {
-    "ID":"Lo_T910",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.248973,
-    "Y":17.906665,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T919",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.297353,
-    "Y":17.938423,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T92",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -27429,15 +27474,6 @@
     "Province":"Xaignabouly",
     "X":101.296877,
     "Y":17.956626,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T926",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.228262,
-    "Y":17.962192,
     "remark":"Corn"
   },
   {
@@ -27459,24 +27495,6 @@
     "remark":"Corn"
   },
   {
-    "ID":"Lo_T936",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.228091,
-    "Y":17.987262,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T938",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.234277,
-    "Y":17.990632,
-    "remark":"Corn"
-  },
-  {
     "ID":"Lo_T95",
     "P_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -27484,6 +27502,15 @@
     "X":106.004014,
     "Y":14.969824,
     "remark":"Cassava"
+  },
+  {
+    "ID":"Lo_T952",
+    "P_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "Province":"Xaignabouly",
+    "X":101.329429,
+    "Y":18.016997,
+    "remark":"Corn"
   },
   {
     "ID":"Lo_T955",
@@ -27511,15 +27538,6 @@
     "X":105.975235,
     "Y":14.977018,
     "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T967",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.278383,
-    "Y":18.039877,
-    "remark":"Corn"
   },
   {
     "ID":"Lo_T968",
@@ -27565,24 +27583,6 @@
     "X":106.011208,
     "Y":14.984213,
     "remark":"Cassava"
-  },
-  {
-    "ID":"Lo_T980",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.326194,
-    "Y":18.055878,
-    "remark":"Corn"
-  },
-  {
-    "ID":"Lo_T982",
-    "P_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
-    "Province":"Xaignabouly",
-    "X":101.331691,
-    "Y":18.057258,
-    "remark":"Corn"
   },
   {
     "ID":"Lo_T987",
