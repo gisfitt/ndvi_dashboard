@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NDVI Recheck (Staging) </title>
+<title>NDVI Recheck</title>
 <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1076,12 +1076,8 @@ function flashMsg(elId, msg, color='#1a7a1a') {
 // ═══════════════════════════════════════════════════════════════════
 //  API CALLS
 // ═══════════════════════════════════════════════════════════════════
-
-// Cache-bust token: changes every page load so browsers always fetch fresh JSON
-const _CB = `?v=${Date.now()}`;
-
 async function apiFetch(url) {
-  const r = await fetch(url + _CB, { cache: 'no-store' });
+  const r = await fetch(url);
   if (!r.ok) throw new Error(`HTTP ${r.status}: ${url}`);
   return r.json();
 }
@@ -1094,8 +1090,7 @@ async function loadCountryFiles(country) {
 async function loadCsv(country, folder, filename) {
   // Load directly from {country}/{filename} (raw_ndvi.json or est_ndvi.json)
   const path = `${country.toLowerCase()}/${filename}`;
-  // cache: 'no-store' + timestamp query → always fetches latest file from server
-  const r = await fetch(path + _CB, { cache: 'no-store' });
+  const r = await fetch(path);
   if (!r.ok) throw new Error(`HTTP ${r.status}: ${path}`);
   const data = await r.json();
   // Support plain array format (new) and {records, rows} object format (old)
