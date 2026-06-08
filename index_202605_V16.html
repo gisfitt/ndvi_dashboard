@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NDVI Recheck (Staging) </title>
+<title>NDVI Recheck</title>
 <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1230,12 +1230,10 @@ function buildCycleOverlays(id) {
         x0:pISO, x1:pISO, y0:0, y1:1,
         line:{ color, width:1.5, dash:'solid' },
       });
-      // Label: top of chart, centered on the line
-      const yOffsetP = 0.98 - (idx % 4) * 0.08;
+      const yOffset = 0.78 - (idx % 4) * 0.06;
       out.annotations.push({
-        x:pISO, y:yOffsetP, xref:'x', yref:'paper',
-        // edit position text
-        text:`<b>P</b> ${labelTag}`, showarrow:false, xanchor:'center',
+        x:pISO, y:yOffset, xref:'x', yref:'paper',
+        text:`<b>P</b> ${labelTag}`, showarrow:false, xanchor:'left',
         font:{ color:'white', size:9 },
         bgcolor: color, bordercolor: color, borderwidth:1, borderpad:2,
         opacity: 0.92,
@@ -1251,14 +1249,13 @@ function buildCycleOverlays(id) {
         x0:hISO, x1:hISO, y0:0, y1:1,
         line:{ color, width:1.5, dash:'dash' },
       });
-      // Label: top of chart, centered on the line (same row as P label for same cycle)
-      const yOffsetH = 0.98 - (idx % 4) * 0.08;
+      const yOffset = 0.72 - (idx % 4) * 0.06;
       out.annotations.push({
-        x:hISO, y:yOffsetH, xref:'x', yref:'paper',
-        text:`<b>H</b> ${labelTag}`, showarrow:false, xanchor:'center',
+        x:hISO, y:yOffset, xref:'x', yref:'paper',
+        text:`<b>H</b> ${labelTag}`, showarrow:false, xanchor:'left',
         font:{ color:'white', size:9 },
         bgcolor: color, bordercolor: color, borderwidth:1, borderpad:2,
-        opacity: 0.92,
+        opacity: 0.78,
         hovertext: `Harvest date · ${cyc.key}` + (cyc.crop ? `<br>Crop: ${cyc.crop}` : '')
                   + `<br>${cyc.hdate}`,
       });
