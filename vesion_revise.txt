@@ -1,0 +1,8 @@
+
+## file HTML
+
+name >> index.html (main to use display in dashboard) is version 16 (in file local)
+
+    -   index.html  is version 16    (in file local)  >> add country laos  
+    -   index_202605.html  is version 15    (in file local)
+    -   index_202604.html  is version 14    (in file local)
