@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NDVI Recheck (Staging) </title>
+<title>NDVI Recheck</title>
 <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -419,12 +419,14 @@
   .legend-box { width: 14px; height: 12px; display: inline-block; border-radius: 2px; background: rgba(100,149,237,0.2); border: 1px solid rgba(100,149,237,0.5); }
 
   #chart {
-    /* clamp(min, preferred, max):
-       - never smaller than 300px (small laptops)
-       - 48% of viewport height on typical screens
-       - never taller than 680px (large/4K monitors)
-       Ensures consistent proportional height on every machine. */
-    height:     clamp(300px, 48vh, 680px);
+    /* Chart display height:
+       45vh  = 45% of the browser window height (~450px on a 1080p screen).
+       Increase to 60vh for a taller chart, decrease to 35vh for a shorter one.
+       min-height prevents collapsing on very small screens.
+       max-height caps it on large monitors. */
+    height:     50vh;
+    min-height: 280px;
+    max-height: 560px;
     width: 100%;
   }
   /* Plotly's inner div must also fill full width */
@@ -1942,7 +1944,7 @@ function renderCurrentId() {
       automargin: true,
     },
     yaxis: {
-      range: [-0.2, 1.0],
+      range: [-0.4, 1.0],
       dtick: 0.1,
       gridcolor: '#e8e8e8',
       zeroline: true,
@@ -2265,11 +2267,13 @@ function resetResults() {
   flashMsg('exportMsg', '✓ All results cleared', '#cc7700');
 }
 
-/** Convert any date string → ISO 'YYYY-MM-DD' for Excel export (locale-safe) */
+/** Convert any date string → 'MM/DD/YY' for Excel export */
 function fmtExport(raw) {
   if (!raw) return '';
   const iso = toISO(parseDate(raw));
-  return iso || '';
+  if (!iso) return '';
+  const [y, mo, d] = iso.split('-');
+  return `${mo.padStart(2,'0')}/${d.padStart(2,'0')}/${y.slice(-2)}`;
 }
 
 async function exportResults() {
@@ -2362,6 +2366,23 @@ async function onEstimateChange() {
 async function reloadAll() {
   await loadEstimateData(S.estimateFile);
   await loadCombineData(S.combineFile);
+}
+
+function downloadCsv(rows, filename) {
+  if (!rows.length) return;
+  const headers = Object.keys(rows[0]);
+  const lines   = [headers.join(',')];
+  rows.forEach(r => {
+    lines.push(headers.map(h => {
+      const v = String(r[h] ?? '');
+      return v.includes(',') ? `"${v}"` : v;
+    }).join(','));
+  });
+  const blob = new Blob([lines.join('\n')], {type:'text/csv'});
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href = url; a.download = filename; a.click();
+  URL.revokeObjectURL(url);
 }
 
 // ═══════════════════════════════════════════════════════════════════
@@ -2516,14 +2537,6 @@ function highlightActiveQuickBtn(active) {
 }
 
 window.addEventListener('load', init);
-
-// Resize Plotly chart whenever the browser window is resized
-// (Plotly responsive:true handles this, but explicit call ensures correct redraw)
-window.addEventListener('resize', () => {
-  if (document.getElementById('chart')?.children.length) {
-    Plotly.Plots.resize('chart');
-  }
-});
 </script>
 </body>
 </html>
