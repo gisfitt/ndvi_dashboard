@@ -2,9 +2,9 @@
 ## file HTML
 
 name >> index.html (main to use display in dashboard) is version 16 (in file local)
-
-    -   index.html  is version 19  (in file local)  >>   install defind cycle
     
+    -   index.html  is version 20  (in file local)  >>    add crop_date
+    -   index_202606_V19.html  install defind cycle
     -   index_202606_V18.html  is version 18   (in file local)  >>  fix iso export excel format  
     -   index_202606_V17.html  is version 17   (in file local)  >> add country laos  
     -   index_202605_V16.html  is version 16   (in file local)
