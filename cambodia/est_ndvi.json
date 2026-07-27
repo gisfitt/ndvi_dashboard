@@ -292,7 +292,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-04-24",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -1282,7 +1282,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-13",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -1843,7 +1843,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-18",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -2410,8 +2410,8 @@
   },
   {
     "ID":"KH_C1064",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/16\/2026",
+    "remark_C1_2627":"logic3",
     "P_Date_est_C1_2627":"4\/22\/2026",
     "Province":"Pursat",
     "X":996678.8673,
@@ -2443,7 +2443,7 @@
   },
   {
     "ID":"KH_C1065",
-    "H_Date_est_C1_2627":"7\/16\/2026",
+    "H_Date_est_C1_2627":"7\/21\/2026",
     "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/2\/2026",
     "Province":"Pursat",
@@ -2470,7 +2470,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-07",
+    "P_Date_C1_2627":"2026-04-02",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -5935,7 +5935,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-02",
+    "P_Date_C1_2627":"2026-04-22",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -7162,8 +7162,8 @@
   },
   {
     "ID":"KH_C1194",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/16\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/12\/2026",
     "Province":"Battambang",
     "X":940540.0,
@@ -7420,7 +7420,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -7954,8 +7954,8 @@
   },
   {
     "ID":"KH_C1215",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/21\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/17\/2026",
     "Province":"Battambang",
     "X":927540.0,
@@ -8014,7 +8014,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-26",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -8913,7 +8913,7 @@
     "ID":"KH_C1241",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
-    "P_Date_est_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/2\/2026",
     "Province":"Battambang",
     "X":916540.0,
     "Y":1413011.3130000001,
@@ -9235,7 +9235,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-22",
+    "P_Date_C1_2627":"2026-05-07",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -9534,7 +9534,7 @@
     "CropType_C3_2526":null,
     "P_Date_C1_2627":"2026-04-27",
     "H_Date_C1_2627":"2026-07-11",
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1259",
@@ -10000,8 +10000,8 @@
   },
   {
     "ID":"KH_C1271",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/21\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/2\/2026",
     "Province":"Pailin",
     "X":901540.0,
@@ -11223,7 +11223,7 @@
     "ID":"KH_C1304",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
-    "P_Date_est_C1_2627":null,
+    "P_Date_est_C1_2627":"5\/22\/2026",
     "Province":"Battambang",
     "X":939540.0,
     "Y":1425011.3130000001,
@@ -11320,8 +11320,8 @@
   },
   {
     "ID":"KH_C1307",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/21\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/22\/2026",
     "Province":"Pailin",
     "X":903404.0220999999,
@@ -11446,7 +11446,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-12",
+    "P_Date_C1_2627":"2026-04-02",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -13729,7 +13729,7 @@
   },
   {
     "ID":"KH_C1373",
-    "H_Date_est_C1_2627":"7\/16\/2026",
+    "H_Date_est_C1_2627":"7\/21\/2026",
     "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/27\/2026",
     "Province":"Battambang",
@@ -14286,7 +14286,7 @@
     "CropType_C3_2526":null,
     "P_Date_C1_2627":"2026-04-27",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1389",
@@ -14389,8 +14389,8 @@
   },
   {
     "ID":"KH_C1391",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/16\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/7\/2026",
     "Province":"Battambang",
     "X":907540.0,
@@ -14554,8 +14554,8 @@
   },
   {
     "ID":"KH_C1396",
-    "H_Date_est_C1_2627":"7\/16\/2026",
-    "remark_C1_2627":"logic1",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"4\/22\/2026",
     "Province":"Battambang",
     "X":908540.0,
@@ -14620,8 +14620,8 @@
   },
   {
     "ID":"KH_C1398",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/21\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/2\/2026",
     "Province":"Battambang",
     "X":913540.0,
@@ -14977,7 +14977,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-12",
+    "P_Date_C1_2627":"2026-06-06",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -15183,7 +15183,7 @@
     "ID":"KH_C1412",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
-    "P_Date_est_C1_2627":null,
+    "P_Date_est_C1_2627":"6\/1\/2026",
     "Province":"Battambang",
     "X":909540.0,
     "Y":1442011.3130000001,
@@ -15241,7 +15241,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-16",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -15280,8 +15280,8 @@
   },
   {
     "ID":"KH_C1415",
-    "H_Date_est_C1_2627":"7\/16\/2026",
-    "remark_C1_2627":"logic1",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"5\/17\/2026",
     "Province":"Battambang",
     "X":918540.0,
@@ -15643,8 +15643,8 @@
   },
   {
     "ID":"KH_C1425",
-    "H_Date_est_C1_2627":"7\/16\/2026",
-    "remark_C1_2627":"logic1",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"5\/22\/2026",
     "Province":"Battambang",
     "X":906540.0,
@@ -15703,7 +15703,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -15909,7 +15909,7 @@
     "ID":"KH_C1432",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
-    "P_Date_est_C1_2627":null,
+    "P_Date_est_C1_2627":"6\/8\/2026",
     "Province":"Kampong Thom",
     "X":1184540.0,
     "Y":1445011.3130000001,
@@ -15941,7 +15941,7 @@
   {
     "ID":"KH_C1433",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic3",
     "P_Date_est_C1_2627":null,
     "Province":"Battambang",
     "X":910859.1617000001,
@@ -15967,14 +15967,14 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-12",
+    "P_Date_C1_2627":"2026-06-26",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
   {
     "ID":"KH_C1434",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic3",
     "P_Date_est_C1_2627":null,
     "Province":"Battambang",
     "X":933769.2290000001,
@@ -16000,7 +16000,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-02-05",
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
@@ -16766,7 +16766,7 @@
   {
     "ID":"KH_C1456",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic2",
     "P_Date_est_C1_2627":"5\/24\/2026",
     "Province":"Kampong Thom",
     "X":1194540.0,
@@ -18541,9 +18541,9 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-27",
+    "P_Date_C1_2627":"2026-04-22",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1504",
@@ -18772,7 +18772,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-05-27",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -19564,9 +19564,9 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-02",
+    "P_Date_C1_2627":"2026-04-27",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1532",
@@ -19933,8 +19933,8 @@
   },
   {
     "ID":"KH_C1542",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/21\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/2\/2026",
     "Province":"Battambang",
     "X":893540.0,
@@ -20587,7 +20587,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-17",
+    "P_Date_C1_2627":"2026-04-17",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -20851,7 +20851,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-27",
+    "P_Date_C1_2627":"2026-05-17",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -21841,7 +21841,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-22",
+    "P_Date_C1_2627":"2026-06-26",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -21876,7 +21876,7 @@
     "CropType_C3_2526":null,
     "P_Date_C1_2627":"2026-04-27",
     "H_Date_C1_2627":"2026-07-11",
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1596",
@@ -21980,7 +21980,7 @@
   {
     "ID":"KH_C1599",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":null,
     "Province":"Preah Vihear",
     "X":1115540.0,
@@ -22339,6 +22339,39 @@
     "P_Date_C1_2627":"2026-05-02",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
+  },
+  {
+    "ID":"KH_C1608",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1143540.0,
+    "Y":1478011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1609",
@@ -22834,6 +22867,39 @@
     "P_Date_C1_2627":"2026-05-02",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
+  },
+  {
+    "ID":"KH_C1622",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1127540.0,
+    "Y":1481011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1623",
@@ -23859,6 +23925,39 @@
     "CropType_C1_2627":"Cassava"
   },
   {
+    "ID":"KH_C1651",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1128540.0,
+    "Y":1487011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
+  },
+  {
     "ID":"KH_C1652",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -24250,7 +24349,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-02",
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
@@ -24508,6 +24607,39 @@
     "P_Date_C1_2526":"2025-04-09",
     "H_Date_C1_2526":"2026-01-17",
     "CropType_C1_2526":"Cassava",
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
+  },
+  {
+    "ID":"KH_C1670",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1130540.0,
+    "Y":1490011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
     "P_Date_C2_2526":null,
     "H_Date_C2_2526":null,
     "CropType_C2_2526":null,
@@ -24817,8 +24949,8 @@
   },
   {
     "ID":"KH_C168",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/21\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/2\/2026",
     "Province":"Battambang",
     "X":876462.3544,
@@ -25113,6 +25245,39 @@
     "CropType_C1_2627":"Corn"
   },
   {
+    "ID":"KH_C1688",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1154540.0,
+    "Y":1494011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
+  },
+  {
     "ID":"KH_C1689",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -25273,7 +25438,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-05-07",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -25344,6 +25509,39 @@
     "CropType_C1_2627":"Cassava"
   },
   {
+    "ID":"KH_C1695",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1157540.0,
+    "Y":1497011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
+  },
+  {
     "ID":"KH_C1696",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -25408,6 +25606,39 @@
     "P_Date_C1_2627":"2026-05-22",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
+  },
+  {
+    "ID":"KH_C1698",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1157540.0,
+    "Y":1500011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1699",
@@ -25509,6 +25740,72 @@
     "CropType_C1_2627":"Cassava"
   },
   {
+    "ID":"KH_C1700",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1153540.0,
+    "Y":1504011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
+  },
+  {
+    "ID":"KH_C1701",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Preah Vihear",
+    "X":1154540.0,
+    "Y":1504011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
+  },
+  {
     "ID":"KH_C1702",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -25603,9 +25900,9 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-22",
+    "P_Date_C1_2627":"2026-04-17",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Cassava"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1705",
@@ -29167,9 +29464,9 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-12",
+    "P_Date_C1_2627":"2026-05-02",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C1802",
@@ -29568,6 +29865,39 @@
     "CropType_C1_2627":"Cassava"
   },
   {
+    "ID":"KH_C1813",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
+    "P_Date_est_C1_2627":null,
+    "Province":"Siemreap",
+    "X":1019540.0,
+    "Y":1522011.3130000001,
+    "P_Date_C3_2324":null,
+    "H_Date_C3_2324":null,
+    "CropType_C3_2324":null,
+    "P_Date_C1_2425":null,
+    "H_Date_C1_2425":null,
+    "CropType_C1_2425":null,
+    "P_Date_C2_2425":null,
+    "H_Date_C2_2425":null,
+    "CropType_C2_2425":null,
+    "P_Date_C3_2425":null,
+    "H_Date_C3_2425":null,
+    "CropType_C3_2425":null,
+    "P_Date_C1_2526":null,
+    "H_Date_C1_2526":null,
+    "CropType_C1_2526":null,
+    "P_Date_C2_2526":null,
+    "H_Date_C2_2526":null,
+    "CropType_C2_2526":null,
+    "P_Date_C3_2526":null,
+    "H_Date_C3_2526":null,
+    "CropType_C3_2526":null,
+    "P_Date_C1_2627":null,
+    "H_Date_C1_2627":null,
+    "CropType_C1_2627":null
+  },
+  {
     "ID":"KH_C1814",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
@@ -29695,7 +30025,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-18",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -30592,8 +30922,8 @@
   },
   {
     "ID":"KH_C1842",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/23\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/14\/2026",
     "Province":"Preah Vihear",
     "X":1153540.0,
@@ -31741,7 +32071,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-13",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -31939,7 +32269,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-23",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -33094,7 +33424,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -33325,7 +33655,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-05-27",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -33457,8 +33787,8 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-03-18",
-    "H_Date_C1_2627":"2026-06-06",
+    "P_Date_C1_2627":"2026-06-26",
+    "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
   {
@@ -33919,7 +34249,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -35206,7 +35536,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-05-27",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -36889,7 +37219,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-06",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -37021,7 +37351,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-11",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -37483,7 +37813,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-07-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -38710,8 +39040,8 @@
   },
   {
     "ID":"KH_C2063",
-    "H_Date_est_C1_2627":"7\/6\/2026",
-    "remark_C1_2627":"logic1",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"4\/12\/2026",
     "Province":"Siemreap",
     "X":1060540.0,
@@ -38836,7 +39166,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-26",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -39001,7 +39331,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-16",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -41113,7 +41443,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-11",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -41608,7 +41938,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -42037,14 +42367,14 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-27",
+    "P_Date_C1_2627":"2026-04-17",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Cassava"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C2154",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":null,
     "Province":"Oddar Meanchey",
     "X":985540.0,
@@ -42466,7 +42796,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -42499,7 +42829,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-16",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -42532,7 +42862,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-29",
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
@@ -42763,7 +43093,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-11",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -42862,7 +43192,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-26",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -43192,7 +43522,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-07",
+    "P_Date_C1_2627":"2026-03-18",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
@@ -43860,7 +44190,7 @@
     "ID":"KH_C2203",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
-    "P_Date_est_C1_2627":null,
+    "P_Date_est_C1_2627":"4\/12\/2026",
     "Province":"Oddar Meanchey",
     "X":1019540.0,
     "Y":1554011.3130000001,
@@ -44551,8 +44881,8 @@
   },
   {
     "ID":"KH_C2222",
-    "H_Date_est_C1_2627":"7\/6\/2026",
-    "remark_C1_2627":"logic3",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"4\/22\/2026",
     "Province":"Oddar Meanchey",
     "X":1049929.2819999999,
@@ -44580,7 +44910,7 @@
     "CropType_C3_2526":null,
     "P_Date_C1_2627":"2026-04-12",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C2223",
@@ -44776,7 +45106,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-04-12",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -45306,7 +45636,7 @@
     "CropType_C3_2526":null,
     "P_Date_C1_2627":"2026-04-12",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Cassava"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C2243",
@@ -45568,7 +45898,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-26",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -45667,7 +45997,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -46921,7 +47251,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -46987,7 +47317,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -47291,7 +47621,7 @@
   {
     "ID":"KH_C2298",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"6\/11\/2026",
     "Province":"Oddar Meanchey",
     "X":1040540.0,
@@ -47350,7 +47680,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-30",
+    "P_Date_C1_2627":"2026-06-16",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
@@ -48406,7 +48736,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-06-11",
+    "P_Date_C1_2627":"2026-06-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
@@ -48802,7 +49132,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-11",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -48842,7 +49172,7 @@
   {
     "ID":"KH_C234",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":"logic1",
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"6\/1\/2026",
     "Province":"Battambang",
     "X":941292.5996,
@@ -50493,7 +50823,7 @@
     "ID":"KH_C2385",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
-    "P_Date_est_C1_2627":null,
+    "P_Date_est_C1_2627":"6\/11\/2026",
     "Province":"Oddar Meanchey",
     "X":1027540.0,
     "Y":1571011.3130000001,
@@ -50947,7 +51277,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-11",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -51382,8 +51712,8 @@
   },
   {
     "ID":"KH_C2409",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/6\/2026",
+    "remark_C1_2627":"logic3",
     "P_Date_est_C1_2627":"5\/12\/2026",
     "Province":"Oddar Meanchey",
     "X":1073540.0,
@@ -52702,8 +53032,8 @@
   },
   {
     "ID":"KH_C2445",
-    "H_Date_est_C1_2627":"7\/13\/2026",
-    "remark_C1_2627":"logic1",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"4\/24\/2026",
     "Province":"Kandal",
     "X":1174806.0892,
@@ -53560,8 +53890,8 @@
   },
   {
     "ID":"KH_C2469",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/18\/2026",
+    "remark_C1_2627":"logic2",
     "P_Date_est_C1_2627":"5\/19\/2026",
     "Province":"Kandal",
     "X":1163852.9449,
@@ -54352,7 +54682,7 @@
   },
   {
     "ID":"KH_C2490",
-    "H_Date_est_C1_2627":"7\/13\/2026",
+    "H_Date_est_C1_2627":"7\/8\/2026",
     "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/19\/2026",
     "Province":"Kandal",
@@ -56959,8 +57289,8 @@
   },
   {
     "ID":"KH_C2561",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/23\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/14\/2026",
     "Province":"Kandal",
     "X":1180832.5754,
@@ -57092,7 +57422,7 @@
   {
     "ID":"KH_C2565",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":"logic1",
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"5\/29\/2026",
     "Province":"Prey Veng",
     "X":1186014.4632000001,
@@ -57620,7 +57950,7 @@
   {
     "ID":"KH_C258",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"6\/6\/2026",
     "Province":"Battambang",
     "X":951337.9864000001,
@@ -60260,7 +60590,7 @@
   {
     "ID":"KH_C2651",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"6\/8\/2026",
     "Province":"Tboung Khmum",
     "X":1236394.5767000001,
@@ -60292,8 +60622,8 @@
   },
   {
     "ID":"KH_C2652",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/23\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/24\/2026",
     "Province":"Tboung Khmum",
     "X":1235800.3302,
@@ -60424,8 +60754,8 @@
   },
   {
     "ID":"KH_C2656",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/23\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/29\/2026",
     "Province":"Tboung Khmum",
     "X":1235706.9273999999,
@@ -60853,8 +61183,8 @@
   },
   {
     "ID":"KH_C2668",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/18\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/24\/2026",
     "Province":"Tboung Khmum",
     "X":1230771.0777,
@@ -61018,8 +61348,8 @@
   },
   {
     "ID":"KH_C2672",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/23\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/29\/2026",
     "Province":"Kratie",
     "X":1251591.3430000001,
@@ -61910,7 +62240,7 @@
   {
     "ID":"KH_C2697",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"6\/3\/2026",
     "Province":"Kratie",
     "X":1247993.2659700001,
@@ -63619,7 +63949,7 @@
     "P_Date_C3_2526":"2025-11-25",
     "H_Date_C3_2526":"2026-03-12",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-19",
+    "P_Date_C1_2627":"2026-06-18",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -63982,7 +64312,7 @@
     "P_Date_C3_2526":"2026-01-11",
     "H_Date_C3_2526":"2026-04-01",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-06-03",
+    "P_Date_C1_2627":"2026-05-24",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -64220,7 +64550,7 @@
   {
     "ID":"KH_C312",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":"logic1",
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":null,
     "Province":"Kratie",
     "X":1255093.6540000001,
@@ -64279,7 +64609,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-10",
+    "P_Date_C1_2627":"2026-04-04",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -64444,7 +64774,7 @@
     "P_Date_C3_2526":"2025-12-25",
     "H_Date_C3_2526":"2026-04-04",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-29",
+    "P_Date_C1_2627":"2026-07-08",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -64616,7 +64946,7 @@
   {
     "ID":"KH_C323",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":"logic3",
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":null,
     "Province":"Kampong Cham",
     "X":1233163.986,
@@ -64642,7 +64972,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-23",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -64780,8 +65110,8 @@
   },
   {
     "ID":"KH_C328",
-    "H_Date_est_C1_2627":"7\/18\/2026",
-    "remark_C1_2627":"logic1",
+    "H_Date_est_C1_2627":null,
+    "remark_C1_2627":null,
     "P_Date_est_C1_2627":"5\/4\/2026",
     "Province":"Kratie",
     "X":1252780.4080000001,
@@ -65302,7 +65632,7 @@
     "P_Date_C3_2526":"2026-01-02",
     "H_Date_C3_2526":"2026-04-05",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-29",
+    "P_Date_C1_2627":"2026-05-19",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -65830,7 +66160,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-24",
+    "P_Date_C1_2627":"2026-06-13",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -66529,8 +66859,8 @@
   },
   {
     "ID":"KH_C376",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/23\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/19\/2026",
     "Province":"Tboung Khmum",
     "X":1236635.1370000001,
@@ -67018,7 +67348,7 @@
     "P_Date_C3_2526":"2026-01-10",
     "H_Date_C3_2526":"2026-04-16",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-24",
+    "P_Date_C1_2627":"2026-05-14",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -67651,7 +67981,7 @@
   },
   {
     "ID":"KH_C406",
-    "H_Date_est_C1_2627":"7\/18\/2026",
+    "H_Date_est_C1_2627":"7\/23\/2026",
     "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/14\/2026",
     "Province":"Tboung Khmum",
@@ -67678,7 +68008,7 @@
     "P_Date_C3_2526":"2026-01-09",
     "H_Date_C3_2526":"2026-03-30",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-04-18",
+    "P_Date_C1_2627":"2026-04-09",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -68107,7 +68437,7 @@
     "P_Date_C3_2526":"2025-11-20",
     "H_Date_C3_2526":"2026-04-04",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-04-24",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -68212,7 +68542,7 @@
   },
   {
     "ID":"KH_C421",
-    "H_Date_est_C1_2627":"7\/18\/2026",
+    "H_Date_est_C1_2627":"7\/23\/2026",
     "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/24\/2026",
     "Province":"Tboung Khmum",
@@ -68444,7 +68774,7 @@
   {
     "ID":"KH_C428",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":null,
     "Province":"Kampong Cham",
     "X":1181989.784,
@@ -68767,9 +69097,9 @@
     "P_Date_C3_2526":"2025-12-25",
     "H_Date_C3_2526":"2026-03-20",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-14",
+    "P_Date_C1_2627":"2026-05-09",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C437",
@@ -69361,7 +69691,7 @@
     "P_Date_C3_2526":"2026-01-03",
     "H_Date_C3_2526":"2026-04-20",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-29",
+    "P_Date_C1_2627":"2026-05-24",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -69394,7 +69724,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-19",
+    "P_Date_C1_2627":"2026-04-14",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -69427,8 +69757,8 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-01-29",
-    "H_Date_C1_2627":"2026-04-24",
+    "P_Date_C1_2627":"2026-07-03",
+    "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
   {
@@ -69757,7 +70087,7 @@
     "P_Date_C3_2526":"2025-12-24",
     "H_Date_C3_2526":"2026-04-03",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-23",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -69862,8 +70192,8 @@
   },
   {
     "ID":"KH_C467",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/23\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/19\/2026",
     "Province":"Tboung Khmum",
     "X":1208055.9920000001,
@@ -69988,7 +70318,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-07",
+    "P_Date_C1_2627":"2026-04-22",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -70021,7 +70351,7 @@
     "P_Date_C3_2526":"2026-01-16",
     "H_Date_C3_2526":"2026-04-16",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-07-08",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -70582,7 +70912,7 @@
     "P_Date_C3_2526":"2026-01-08",
     "H_Date_C3_2526":"2026-04-20",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-23",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -71044,7 +71374,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-23",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -71506,7 +71836,7 @@
     "P_Date_C3_2526":"2025-11-30",
     "H_Date_C3_2526":null,
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-24",
+    "P_Date_C1_2627":"2026-05-14",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -72502,7 +72832,7 @@
   },
   {
     "ID":"KH_C539",
-    "H_Date_est_C1_2627":"7\/13\/2026",
+    "H_Date_est_C1_2627":"7\/8\/2026",
     "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/14\/2026",
     "Province":"Phnom Penh",
@@ -72529,7 +72859,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-29",
+    "P_Date_C1_2627":"2026-04-09",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -72964,7 +73294,7 @@
   },
   {
     "ID":"KH_C551",
-    "H_Date_est_C1_2627":"7\/18\/2026",
+    "H_Date_est_C1_2627":"7\/23\/2026",
     "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/14\/2026",
     "Province":"Kandal",
@@ -72991,7 +73321,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-04-04",
+    "P_Date_C1_2627":"2026-03-30",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
@@ -73024,7 +73354,7 @@
     "P_Date_C3_2526":"2026-01-20",
     "H_Date_C3_2526":"2026-05-05",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-09",
+    "P_Date_C1_2627":"2026-06-18",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -73057,7 +73387,7 @@
     "P_Date_C3_2526":"2025-12-25",
     "H_Date_C3_2526":"2026-04-17",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-18",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -73125,7 +73455,7 @@
     "CropType_C3_2526":"Corn",
     "P_Date_C1_2627":"2026-04-04",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C556",
@@ -73453,7 +73783,7 @@
     "P_Date_C3_2526":"2026-01-02",
     "H_Date_C3_2526":"2026-04-08",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-06-08",
+    "P_Date_C1_2627":"2026-05-24",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -74219,7 +74549,7 @@
   {
     "ID":"KH_C586",
     "H_Date_est_C1_2627":null,
-    "remark_C1_2627":"logic1",
+    "remark_C1_2627":"logic3",
     "P_Date_est_C1_2627":null,
     "Province":"Kandal",
     "X":1183600.7620000001,
@@ -75037,7 +75367,7 @@
     "P_Date_C3_2526":"2025-12-03",
     "H_Date_C3_2526":"2026-03-14",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-09",
+    "P_Date_C1_2627":"2026-04-14",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -75334,7 +75664,7 @@
     "P_Date_C3_2526":"2026-01-18",
     "H_Date_C3_2526":"2026-04-30",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-29",
+    "P_Date_C1_2627":"2026-05-14",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -75664,7 +75994,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-04",
+    "P_Date_C1_2627":"2026-04-29",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -75796,7 +76126,7 @@
     "P_Date_C3_2526":"2026-01-19",
     "H_Date_C3_2526":"2026-04-24",
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-24",
+    "P_Date_C1_2627":"2026-05-14",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -76060,7 +76390,7 @@
     "P_Date_C3_2526":"2026-01-15",
     "H_Date_C3_2526":"2026-04-30",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-24",
+    "P_Date_C1_2627":"2026-05-14",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -76687,7 +77017,7 @@
     "P_Date_C3_2526":"2026-01-19",
     "H_Date_C3_2526":"2026-04-24",
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-07-03",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -77578,7 +77908,7 @@
     "P_Date_C3_2526":"2025-12-25",
     "H_Date_C3_2526":"2026-03-27",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-05-09",
+    "P_Date_C1_2627":"2026-04-24",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -79657,7 +79987,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-07-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -80251,7 +80581,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-17",
+    "P_Date_C1_2627":"2026-05-02",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -80737,9 +81067,9 @@
     "P_Date_C3_2425":null,
     "H_Date_C3_2425":null,
     "CropType_C3_2425":null,
-    "P_Date_C1_2526":null,
-    "H_Date_C1_2526":null,
-    "CropType_C1_2526":null,
+    "P_Date_C1_2526":"2025-04-27",
+    "H_Date_C1_2526":"2025-08-10",
+    "CropType_C1_2526":"Corn",
     "P_Date_C2_2526":null,
     "H_Date_C2_2526":null,
     "CropType_C2_2526":null,
@@ -80911,7 +81241,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-06-01",
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Cassava"
   },
@@ -80946,7 +81276,7 @@
     "CropType_C3_2526":null,
     "P_Date_C1_2627":"2026-03-28",
     "H_Date_C1_2627":"2026-06-11",
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C77",
@@ -83392,8 +83722,8 @@
   },
   {
     "ID":"KH_C836",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/21\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"4\/7\/2026",
     "Province":"Battambang",
     "X":949357.703,
@@ -84147,7 +84477,7 @@
     "CropType_C3_2526":null,
     "P_Date_C1_2627":"2026-04-22",
     "H_Date_C1_2627":"2026-07-06",
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C857",
@@ -84673,7 +85003,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-07-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -84706,7 +85036,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-07-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -84739,7 +85069,7 @@
     "P_Date_C3_2526":"2025-10-22",
     "H_Date_C3_2526":"2026-01-30",
     "CropType_C3_2526":"Corn",
-    "P_Date_C1_2627":"2026-06-11",
+    "P_Date_C1_2627":"2026-07-01",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -84772,7 +85102,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-17",
+    "P_Date_C1_2627":"2026-06-21",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -84871,7 +85201,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-06-01",
+    "P_Date_C1_2627":"2026-05-27",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -85003,9 +85333,9 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-17",
+    "P_Date_C1_2627":"2026-05-07",
     "H_Date_C1_2627":null,
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C880",
@@ -85069,7 +85399,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-22",
+    "P_Date_C1_2627":"2026-05-12",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -85764,7 +86094,7 @@
     "CropType_C3_2526":null,
     "P_Date_C1_2627":"2026-04-12",
     "H_Date_C1_2627":"2026-06-26",
-    "CropType_C1_2627":"Corn"
+    "CropType_C1_2627":null
   },
   {
     "ID":"KH_C900",
@@ -85894,7 +86224,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":"2026-05-17",
+    "P_Date_C1_2627":"2026-03-18",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":"Corn"
   },
@@ -86560,8 +86890,8 @@
   },
   {
     "ID":"KH_C922",
-    "H_Date_est_C1_2627":null,
-    "remark_C1_2627":null,
+    "H_Date_est_C1_2627":"7\/21\/2026",
+    "remark_C1_2627":"logic1",
     "P_Date_est_C1_2627":"5\/27\/2026",
     "Province":"Battambang",
     "X":941439.0647,
@@ -86925,7 +87255,7 @@
     "ID":"KH_C932",
     "H_Date_est_C1_2627":null,
     "remark_C1_2627":null,
-    "P_Date_est_C1_2627":"4\/14\/2026",
+    "P_Date_est_C1_2627":"4\/24\/2026",
     "Province":"Tboung Khmum",
     "X":1310540.0,
     "Y":1305011.3130000001,
@@ -87742,7 +88072,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-06-28",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
@@ -89326,7 +89656,7 @@
     "P_Date_C3_2526":null,
     "H_Date_C3_2526":null,
     "CropType_C3_2526":null,
-    "P_Date_C1_2627":null,
+    "P_Date_C1_2627":"2026-05-09",
     "H_Date_C1_2627":null,
     "CropType_C1_2627":null
   },
