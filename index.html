@@ -1261,6 +1261,13 @@ async function loadCsv(country, folder, filename) {
   if (Array.isArray(data)) {
     return { records: data, rows: data.length };
   }
+  // Support compact {h, d} format (from readcsv_json_test_v2.py)
+  if (data.h && Array.isArray(data.d)) {
+    const records = data.d.map(row =>
+      Object.fromEntries(data.h.map((col, i) => [col, row[i]]))
+    );
+    return { records, rows: records.length };
+  }
   return data;
 }
 
