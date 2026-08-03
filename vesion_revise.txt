@@ -2,7 +2,9 @@
 ## file HTML
 
 name >> index.html (main to use display in dashboard) is version 16 (in file local)
-     -  index.html.html  show many P_date and H_date est   >> V22
+
+     -  index.html  show many P_date and H_date est   >> V22
+     -  index_202606_V21html  show many P_date and H_date est   >> V21
     -   index_202606_V20.html  is version 20  (in file local)  >>    add crop_date
     -   index_202606_V19.html  install defind cycle
     -   index_202606_V18.html  is version 18   (in file local)  >>  fix iso export excel format  

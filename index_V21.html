@@ -1257,15 +1257,12 @@ async function loadCsv(country, folder, filename) {
   const r = await fetch(path + _CB, { cache: 'no-store' });
   if (!r.ok) throw new Error(`HTTP ${r.status}: ${path}`);
   const data = await r.json();
-  // Auto-detect JSON format:
-  //   1. plain array [{col:val,...},...] — original records format
-  //   2. compact {h:[cols], d:[[vals],...]} — v2 compact format (~50% smaller)
-  //   3. legacy {records:[...], rows:N} object — old wrapper format
+  // Support plain array format (new) and {records, rows} object format (old)
   if (Array.isArray(data)) {
     return { records: data, rows: data.length };
   }
+  // Support compact {h, d} format (from readcsv_json_test_v2.py)
   if (data.h && Array.isArray(data.d)) {
-    // compact format → convert back to records
     const records = data.d.map(row =>
       Object.fromEntries(data.h.map((col, i) => [col, row[i]]))
     );
