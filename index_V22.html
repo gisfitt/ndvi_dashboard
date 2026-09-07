@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NDVI Recheck </title>
+<title>NDVI Recheck</title>
 <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -380,16 +380,6 @@
   }
   #btnExport:hover { background: linear-gradient(135deg, #163e82, #1e50b0); transform: translateY(-1px); }
   #exportMsg { font-size: 11px; color: #1a4fa0; text-align: center; margin-top: 4px; height: 14px; }
-
-  #btnDownloadEst {
-    width: 100%; padding: 7px;
-    background: linear-gradient(135deg, #2e7d5a, #3aaa78);
-    color: white; border: none; border-radius: 5px;
-    font-size: 12px; font-weight: 700; cursor: pointer;
-    transition: all 0.2s; margin-top: 4px;
-  }
-  #btnDownloadEst:hover { background: linear-gradient(135deg, #215e43, #2e8a5f); transform: translateY(-1px); }
-  #btnDownloadEst:disabled { opacity: 0.45; cursor: not-allowed; transform: none; }
 
   /* ── Chart area ── */
   #chartArea {
@@ -835,125 +825,6 @@
     font-family: monospace;
     margin: 0 1px;
   }
-
-  /* ═══════════════════════════════════════════════════
-     RESPONSIVE — Tablet & Mobile
-  ═══════════════════════════════════════════════════ */
-
-  /* Sidebar toggle button — hidden on desktop */
-  #sbToggleBtn {
-    display: none;
-    align-items: center; justify-content: center;
-    background: rgba(255,255,255,0.15);
-    border: 1px solid rgba(255,255,255,0.30);
-    color: white;
-    border-radius: 8px;
-    width: 36px; height: 32px;
-    font-size: 17px; cursor: pointer;
-    flex-shrink: 0; line-height: 1;
-    transition: background 0.15s;
-  }
-  #sbToggleBtn:hover { background: rgba(255,255,255,0.25); }
-
-  /* Backdrop for sidebar drawer */
-  #sbBackdrop {
-    display: none;
-    position: fixed; inset: 0;
-    background: rgba(0,0,0,0.45);
-    z-index: 99;
-  }
-  #sbBackdrop.show { display: block; }
-
-  /* ── Tablet (769px – 1100px) ── */
-  @media (max-width: 1100px) {
-    #estDebug     { display: none; }
-    #sidebar      { width: 190px; min-width: 160px; }
-    #countrySelect  { width: 90px; }
-    #combineSelect  { width: 130px; }
-    #estimateSelect { width: 120px; }
-  }
-
-  /* ── Mobile (≤ 768px) ── */
-  @media (max-width: 768px) {
-
-    /* Body: allow scroll, no fixed height */
-    body { height: auto; min-height: 100vh; overflow-y: auto; }
-
-    /* Header: wrap into 2 lines */
-    #header {
-      height: auto;
-      min-height: 48px;
-      padding: 6px 12px;
-      flex-wrap: wrap;
-      gap: 6px 10px;
-      align-items: center;
-    }
-    #sbToggleBtn { display: flex; }
-    .hdiv        { display: none; }
-    #estDebug    { display: none; }
-    .h-sub       { display: none; }
-    .h-title     { font-size: 13px; }
-    #header .hgroup      { flex: 1; min-width: 80px; }
-    #countrySelect       { width: 80px; }
-    #combineSelect       { width: 100%; font-size: 11px; }
-    #estimateSelect      { width: 100%; font-size: 11px; }
-    #statusBadge         { font-size: 10px; padding: 3px 8px; margin-left: 0; }
-
-    /* Main: stack sidebar + chart vertically */
-    #main { flex-direction: column; overflow: visible; height: auto; }
-
-    /* Sidebar: slide-in drawer from left */
-    #sidebar {
-      position: fixed;
-      top: 0; left: 0; bottom: 0;
-      width: 270px;
-      z-index: 100;
-      transform: translateX(-100%);
-      transition: transform 0.25s ease;
-      box-shadow: 4px 0 24px rgba(0,0,0,0.30);
-    }
-    #sidebar.sb-open { transform: translateX(0); }
-
-    /* Chart area: full width, normal flow */
-    #chartArea { width: 100%; overflow-y: visible; }
-
-    /* Chart: shorter on mobile */
-    #chart { height: clamp(240px, 55vw, 380px); }
-
-    /* Chart info bar: horizontal scroll */
-    #chartInfo {
-      overflow-x: auto; flex-wrap: nowrap;
-      gap: 8px; font-size: 10px;
-      padding: 5px 10px;
-    }
-    #chartInfo span { flex-shrink: 0; }
-
-    /* CI bar: compact */
-    #ciBar { gap: 8px; font-size: 11px; flex-wrap: wrap; }
-
-    /* Date range bar: smaller inputs */
-    #dateRangeBar { gap: 5px; padding: 5px 10px; }
-    #dateRangeBar input[type="date"] { width: 110px; font-size: 11px; }
-    #dateRangeBar label { font-size: 10px; }
-    .drb-btn { padding: 3px 6px; font-size: 10px; }
-
-    /* Control panel rows: column on mobile */
-    #cycleSelectRow { flex-direction: column; }
-    .cyc-btn        { width: 100%; }
-    #setDateRow     { flex-direction: column; }
-    .set-btn        { justify-content: flex-start; padding: 8px 14px; }
-    #cpRow2         { flex-direction: column; }
-
-    /* Saved list: taller on mobile since more space */
-    #savedList { max-height: 120px; }
-  }
-
-  /* ── Small phone (≤ 400px) ── */
-  @media (max-width: 400px) {
-    #chart { height: clamp(220px, 60vw, 320px); }
-    #header .hgroup { min-width: 70px; }
-    .h-title { font-size: 12px; }
-  }
 </style>
 </head>
 <body>
@@ -964,29 +835,23 @@
   <div id="loadingText">Loading…</div>
 </div>
 
-<!-- Sidebar backdrop (mobile) -->
-<div id="sbBackdrop" onclick="closeSidebar()"></div>
-
 <!-- Header -->
 <div id="header">
-  <button id="sbToggleBtn" onclick="toggleSidebar()" title="Menu">☰</button>
   <div class="h-brand">
     <!-- <span class="h-icon">🛰️</span> -->
     <div>
       <div class="h-title">NDVI Recheck</div>
-      <div class="h-sub">Planting &amp; Harvest (v.26)</div>
+      <div class="h-sub">Planting &amp; Harvest (v.22)</div>
     </div>
   </div>
 
   <div class="hdiv"></div>
 
   <div class="hgroup">
-    <!-- add country -->
     <label>Country</label>
     <select id="countrySelect" onchange="onCountryChange()">
       <option value="Cambodia">Cambodia</option>
       <option value="Thailand">Thailand</option>
-      <option value="India">India</option>
       <option value="Laos">Laos</option>
     </select>
   </div>
@@ -1246,7 +1111,6 @@
             <button type="button" id="btnReset" onclick="resetResults()" title="Clear all saved results">🗑 Reset</button>
           </div>
           <div id="exportMsg" style="font-size:11px;color:#1a4fa0;text-align:center;margin-top:3px;height:14px;"></div>
-          <button type="button" id="btnDownloadEst" onclick="downloadEstJson()" disabled>📂 Download est_ndvi.csv</button>
         </div>
 
       </div><!-- /cpRow2 -->
@@ -1262,25 +1126,6 @@
 </div><!-- /main -->
 
 <script>
-// ─── Mobile sidebar toggle ───────────────────────────────────────
-function toggleSidebar() {
-  const sb = document.getElementById('sidebar');
-  const bd = document.getElementById('sbBackdrop');
-  const open = sb.classList.toggle('sb-open');
-  bd.classList.toggle('show', open);
-}
-function closeSidebar() {
-  document.getElementById('sidebar').classList.remove('sb-open');
-  document.getElementById('sbBackdrop').classList.remove('show');
-}
-// Close sidebar when a plot ID is selected (mobile UX)
-document.addEventListener('DOMContentLoaded', function() {
-  var idSel = document.getElementById('idSelect');
-  if (idSel) idSel.addEventListener('change', function() {
-    if (window.innerWidth <= 768) closeSidebar();
-  });
-});
-
 // ═══════════════════════════════════════════════════════════════════
 //  STATE
 // ═══════════════════════════════════════════════════════════════════
@@ -1288,8 +1133,6 @@ const S = {
   country:    'Cambodia',
   combineFile:  null,
   estimateFile: null,
-  _estRaw:      null,   // raw text of est_ndvi.json for download
-  _estFilename: null,   // filename of loaded estimate file
   allRows:     [],      // raw records from combine CSV
   idData:      {},      // { id: [ {Date, mean_value, smooth?, Province, ...} ] }
   estimates:   {},      // { id: { P_Date_est:..., Province:... } }
@@ -1413,23 +1256,22 @@ async function loadCsv(country, folder, filename) {
   // cache: 'no-store' + timestamp query → always fetches latest file from server
   const r = await fetch(path + _CB, { cache: 'no-store' });
   if (!r.ok) throw new Error(`HTTP ${r.status}: ${path}`);
-  const rawText = await r.text();          // keep raw for download
-  const data    = JSON.parse(rawText);
+  const data = await r.json();
   // Auto-detect JSON format:
   //   1. plain array [{col:val,...},...] — original records format
   //   2. compact {h:[cols], d:[[vals],...]} — v2 compact format (~50% smaller)
   //   3. legacy {records:[...], rows:N} object — old wrapper format
   if (Array.isArray(data)) {
-    return { records: data, rows: data.length, _rawText: rawText };
+    return { records: data, rows: data.length };
   }
   if (data.h && Array.isArray(data.d)) {
     // compact format → convert back to records
     const records = data.d.map(row =>
       Object.fromEntries(data.h.map((col, i) => [col, row[i]]))
     );
-    return { records, rows: records.length, _rawText: rawText };
+    return { records, rows: records.length };
   }
-  return { ...data, _rawText: rawText };
+  return data;
 }
 
 // ═══════════════════════════════════════════════════════════════════
@@ -1660,10 +1502,7 @@ async function loadCombineData(filename) {
 
 async function loadEstimateData(filename) {
   S.estimates = {};
-  S._estRaw = null; S._estFilename = null;
   S._estMeta = { filename: null, idCol: null, pdCol: null, allCols: [], ids: [] };
-  const dlBtn = document.getElementById('btnDownloadEst');
-  if (dlBtn) dlBtn.disabled = true;
 
   if (!filename) {
     updateEstDebug('(none)');
@@ -1673,9 +1512,6 @@ async function loadEstimateData(filename) {
   }
   try {
     const res = await loadCsv(S.country, 'csv_estimate', filename);
-    S._estRaw = res._rawText || null;
-    S._estFilename = filename;
-    if (dlBtn && S._estRaw) dlBtn.disabled = false;
     const records = res.records;
 
     dbg('dbgFile', filename, '#222');
@@ -2303,7 +2139,6 @@ function renderCurrentId() {
   // ALL crop-cycle annotations
   annotations.push(...cycleOverlay.annotations);
 
-
   // 0.2 / 0.3 labels
   annotations.push({ xref:'paper', yref:'y', x:1, y:0.2,
     text:'0.2', showarrow:false, xanchor:'right',
@@ -2785,63 +2620,6 @@ function fmtExport(raw) {
   return iso || '';
 }
 
-// ── Convert an array of plain objects → CSV text (union of all columns, in
-//    order of first appearance; values containing comma/quote/newline are
-//    quoted per RFC4180). ──────────────────────────────────────────
-function recordsToCsv(records) {
-  if (!records || !records.length) return '';
-  const cols = [];
-  const seen = new Set();
-  records.forEach(r => Object.keys(r).forEach(k => {
-    if (!seen.has(k)) { seen.add(k); cols.push(k); }
-  }));
-  const esc = v => {
-    if (v === null || v === undefined) return '';
-    const s = String(v);
-    return /[",\n\r]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
-  };
-  const lines = [cols.map(esc).join(',')];
-  records.forEach(r => lines.push(cols.map(c => esc(r[c])).join(',')));
-  return lines.join('\r\n');
-}
-
-// ── Download the original (unedited) est_ndvi data as CSV ─────────
-function downloadEstJson() {
-  if (!S._estRaw) { alert('No estimate file loaded.'); return; }
-  let records;
-  try {
-    const data = JSON.parse(S._estRaw);
-    if (Array.isArray(data)) {
-      records = data;
-    } else if (data && Array.isArray(data.d) && Array.isArray(data.h)) {
-      // compact {h:[cols], d:[[vals],...]} format
-      records = data.d.map(row => Object.fromEntries(data.h.map((col, i) => [col, row[i]])));
-    } else if (data && Array.isArray(data.records)) {
-      records = data.records;
-    } else {
-      records = [];
-    }
-  } catch (e) {
-    console.error('[downloadEstJson] JSON parse failed:', e);
-    alert('Could not parse the estimate file — cannot export as CSV.');
-    return;
-  }
-  if (!records.length) { alert('Estimate file has no records to export.'); return; }
-
-  const csv  = recordsToCsv(records);
-  // Prepend UTF-8 BOM so Excel opens Thai/accented text correctly.
-  const blob = new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8;' });
-  const url  = URL.createObjectURL(blob);
-  const a    = document.createElement('a');
-  a.href     = url;
-  const base = (S._estFilename || 'est_ndvi.json').replace(/\.json$/i, '');
-  a.download = base + '.csv';
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  URL.revokeObjectURL(url);
-}
-
 async function exportResults() {
   const ids = Object.keys(S.results);
   if (!ids.length) {
@@ -2896,7 +2674,6 @@ async function exportResults() {
     flashMsg('exportMsg', `✓ Downloaded ${fname}`);
   }
 }
-
 
 function downloadCsv(rows, filename) {
   if (!rows.length) return;
