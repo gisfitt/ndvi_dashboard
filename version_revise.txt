@@ -1,0 +1,5 @@
+## file HTML
+
+name >> index.html (main to use display in dashboard) is version 16 (in file local)
+
+        use version NDVI_05_WEB_RECHECK_V29.html
