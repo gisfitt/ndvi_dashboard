@@ -68,3 +68,6 @@
 | `git push failed` | ยังไม่ได้ล็อกอิน GitHub หรือไม่มีสิทธิ์ | ลอง `git push` ธรรมดาหนึ่งครั้งเพื่อล็อกอิน |
 | `python` ไม่รู้จัก | ไม่ได้ตั้ง PATH | ใช้ `py deploy_gh_pages.py` |
 | จังหวัดหายไปหลังอัปเดต | ไม่มีแปลงในจังหวัดนั้นในรอบนี้ | ปกติ ไฟล์ของจังหวัดนั้นถูกลบและไม่อยู่ในดัชนี |
+
+## git size api
+## https://api.github.com/repos/gisfitt/ndvi_dashboard
